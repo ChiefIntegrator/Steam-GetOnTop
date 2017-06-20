@@ -23,7 +23,7 @@ This is a suite of PowerShell scripts to get on top of the burden of managing an
 - Set the location to where ever you copied the files. eg: Set-Location "C:\Scripts\Steam-GetOnTop" (cd "C:\Scripts\Steam-GetOnTop" will work too)
 - Exit Steam
 - Run .\Publish-SteamAppManifests.ps1 (Run Get-Help .\Publish-SteamAppManifests.ps1 for details on command line parameters)
-- Watch the logging test scroll by
+- Watch the logging text scroll by
 - When the 'Sanity Check' window pops up, look through each row and confirm that a sensible match has been made:
 	+ Ensure the 'Valid?' checkbox is ticked for each app you'd like to create a manifest for
 	+ Uncheck the 'Valid?' checkbox for anything you don't want a manifest for - install directories remain after an app has been uninstalled, and some matches may not be quite accurate
