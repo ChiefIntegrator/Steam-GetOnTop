@@ -1,0 +1,5322 @@
+﻿[
+    {
+        "appid":  "108200",
+        "name":  "Ticket to Ride",
+        "installdir":  "Ticket to Ride"
+    },
+    {
+        "appid":  "12500",
+        "name":  "Puzzle Quest",
+        "installdir":  "Puzzle Quest"
+    },
+    {
+        "appid":  "200960",
+        "name":  "Geneforge 1",
+        "installdir":  "Geneforge"
+    },
+    {
+        "appid":  "212680",
+        "name":  "FTL: Faster Than Light",
+        "installdir":  "FTL Faster Than Light"
+    },
+    {
+        "appid":  "218410",
+        "name":  "Defender\u0027s Quest: Valley of the Forgotten",
+        "installdir":  "DefendersQuest"
+    },
+    {
+        "appid":  "219740",
+        "name":  "Don\u0027t Starve",
+        "installdir":  "dont_starve"
+    },
+    {
+        "appid":  "22000",
+        "name":  "World of Goo",
+        "installdir":  "World of Goo"
+    },
+    {
+        "appid":  "222730",
+        "name":  "Reus",
+        "installdir":  "Reus"
+    },
+    {
+        "appid":  "228280",
+        "name":  "Baldur\u0027s Gate: Enhanced Edition",
+        "installdir":  "Baldur\u0027s Gate Enhanced Edition"
+    },
+    {
+        "appid":  "233700",
+        "name":  "Sword of the Stars: The Pit",
+        "installdir":  "The Pit"
+    },
+    {
+        "appid":  "239030",
+        "name":  "Papers, Please",
+        "installdir":  "PapersPlease"
+    },
+    {
+        "appid":  "246620",
+        "name":  "Plague Inc: Evolved",
+        "installdir":  "PlagueInc"
+    },
+    {
+        "appid":  "247020",
+        "name":  "Cook, Serve, Delicious!",
+        "installdir":  "CookServeDelicious"
+    },
+    {
+        "appid":  "248860",
+        "name":  "NEO Scavenger",
+        "installdir":  "NEO Scavenger"
+    },
+    {
+        "appid":  "249360",
+        "name":  "Zafehouse: Diaries",
+        "installdir":  "ZafehouseDiaries"
+    },
+    {
+        "appid":  "250520",
+        "name":  "Underrail",
+        "installdir":  "Underrail"
+    },
+    {
+        "appid":  "251130",
+        "name":  "Chroma Squad",
+        "installdir":  "ChromaSquad"
+    },
+    {
+        "appid":  "253150",
+        "name":  "Halfway",
+        "installdir":  "Halfway"
+    },
+    {
+        "appid":  "254320",
+        "name":  "Duskers",
+        "installdir":  "Duskers"
+    },
+    {
+        "appid":  "25600",
+        "name":  "Eschalon: Book 1",
+        "installdir":  "Eschalon Book I"
+    },
+    {
+        "appid":  "263280",
+        "name":  "Spintires",
+        "installdir":  "Spintires"
+    },
+    {
+        "appid":  "263460",
+        "name":  "Girls Like Robots",
+        "installdir":  "GirlsLikeRobots"
+    },
+    {
+        "appid":  "264690",
+        "name":  "Coin Crypt",
+        "installdir":  "Coin Crypt"
+    },
+    {
+        "appid":  "265400",
+        "name":  "FX Football - The Manager for Every Football Fan",
+        "installdir":  "FX Football"
+    },
+    {
+        "appid":  "269030",
+        "name":  "The Yawhg",
+        "installdir":  "The Yawhg"
+    },
+    {
+        "appid":  "272040",
+        "name":  "KAMI",
+        "installdir":  "KAMI"
+    },
+    {
+        "appid":  "279260",
+        "name":  "Richard \u0026 Alice",
+        "installdir":  "RichardAndAlice"
+    },
+    {
+        "appid":  "279990",
+        "name":  "Bridge Constructor Playground",
+        "installdir":  "Bridge Constructor Playground"
+    },
+    {
+        "appid":  "280220",
+        "name":  "Creeper World 3: Arc Eternal",
+        "installdir":  "Creeper World 3"
+    },
+    {
+        "appid":  "293160",
+        "name":  "AntharioN",
+        "installdir":  "AntharioN"
+    },
+    {
+        "appid":  "293260",
+        "name":  "Card Hunter",
+        "installdir":  "CardHunter"
+    },
+    {
+        "appid":  "296470",
+        "name":  "Mount Your Friends",
+        "installdir":  "Mount Your Friends"
+    },
+    {
+        "appid":  "296490",
+        "name":  "GemCraft - Chasing Shadows",
+        "installdir":  "GemCraft Chasing Shadows"
+    },
+    {
+        "appid":  "298030",
+        "name":  "Total Annihilation",
+        "installdir":  "Total Annihilation"
+    },
+    {
+        "appid":  "298630",
+        "name":  "The Escapists",
+        "installdir":  "The Escapists"
+    },
+    {
+        "appid":  "299600",
+        "name":  "Dragon Fin Soup",
+        "installdir":  "DragonFinSoup"
+    },
+    {
+        "appid":  "303940",
+        "name":  "CAPSULE",
+        "installdir":  "CAPSULE"
+    },
+    {
+        "appid":  "304410",
+        "name":  "Hexcells Infinite",
+        "installdir":  "Hexcells Infinite"
+    },
+    {
+        "appid":  "305640",
+        "name":  "Shattered Planet",
+        "installdir":  "Shattered Planet"
+    },
+    {
+        "appid":  "306680",
+        "name":  "Lexica",
+        "installdir":  "Lexica"
+    },
+    {
+        "appid":  "312720",
+        "name":  "Khet 2.0",
+        "installdir":  "Khet 2.0"
+    },
+    {
+        "appid":  "322330",
+        "name":  "Don\u0027t Starve Together",
+        "installdir":  "Don\u0027t Starve Together"
+    },
+    {
+        "appid":  "327670",
+        "name":  "Ironcast",
+        "installdir":  "Ironcast"
+    },
+    {
+        "appid":  "328080",
+        "name":  "Rise to Ruins",
+        "installdir":  "Retro-Pixel Castles"
+    },
+    {
+        "appid":  "328760",
+        "name":  "SanctuaryRPG: Black Edition",
+        "installdir":  "SanctuaryRPG - Black Edition"
+    },
+    {
+        "appid":  "329970",
+        "name":  "KeeperRL",
+        "installdir":  "KeeperRL"
+    },
+    {
+        "appid":  "338320",
+        "name":  "Pixel Heroes: Byte \u0026 Magic",
+        "installdir":  "Pixel Heroes"
+    },
+    {
+        "appid":  "339400",
+        "name":  "Runestone Keeper",
+        "installdir":  "Runestone Keeper"
+    },
+    {
+        "appid":  "340300",
+        "name":  "Teddy Floppy Ear - Mountain Adventure",
+        "installdir":  "Teddy Floppy Ear - Mountain Adventure"
+    },
+    {
+        "appid":  "340310",
+        "name":  "Teddy Floppy Ear - Kayaking",
+        "installdir":  "Teddy Floppy Ear - Kayaking"
+    },
+    {
+        "appid":  "342970",
+        "name":  "Pixel Survivors",
+        "installdir":  "Survivors"
+    },
+    {
+        "appid":  "343090",
+        "name":  "SimpleRockets",
+        "installdir":  "SimpleRockets"
+    },
+    {
+        "appid":  "351090",
+        "name":  "Regency Solitaire",
+        "installdir":  "Regency Solitaire"
+    },
+    {
+        "appid":  "352220",
+        "name":  "King of Dragon Pass",
+        "installdir":  "King of Dragon Pass"
+    },
+    {
+        "appid":  "354240",
+        "name":  "Please, Don’t Touch Anything",
+        "installdir":  "Please, Don’t Touch Anything"
+    },
+    {
+        "appid":  "358130",
+        "name":  "The Curious Expedition",
+        "installdir":  "The Curious Expedition"
+    },
+    {
+        "appid":  "364640",
+        "name":  "FreeCell Quest",
+        "installdir":  "FreeCell Quest"
+    },
+    {
+        "appid":  "365450",
+        "name":  "Hacknet",
+        "installdir":  "Hacknet"
+    },
+    {
+        "appid":  "367000",
+        "name":  "Fine Sweeper",
+        "installdir":  "Fine Sweeper"
+    },
+    {
+        "appid":  "368610",
+        "name":  "The Enchanted Cave 2",
+        "installdir":  "The Enchanted Cave 2"
+    },
+    {
+        "appid":  "370360",
+        "name":  "TIS-100",
+        "installdir":  "TIS-100"
+    },
+    {
+        "appid":  "372080",
+        "name":  "Ananias Roguelike",
+        "installdir":  "Ananias Roguelike"
+    },
+    {
+        "appid":  "373730",
+        "name":  "Way of Gold and Steel",
+        "installdir":  "Way of Gold and Steel"
+    },
+    {
+        "appid":  "375250",
+        "name":  "Pizza Express",
+        "installdir":  "PizzaExpress"
+    },
+    {
+        "appid":  "377500",
+        "name":  "Prismatica",
+        "installdir":  "Prismatica"
+    },
+    {
+        "appid":  "379530",
+        "name":  "Fate Tectonics",
+        "installdir":  "Fate Tectonics"
+    },
+    {
+        "appid":  "388050",
+        "name":  "Snik",
+        "installdir":  "Snik"
+    },
+    {
+        "appid":  "391540",
+        "name":  "Undertale",
+        "installdir":  "Undertale"
+    },
+    {
+        "appid":  "403940",
+        "name":  "Dungelot : Shattered Lands",
+        "installdir":  "Dungelot Shattered Lands"
+    },
+    {
+        "appid":  "40970",
+        "name":  "Stronghold Crusader HD",
+        "installdir":  "Stronghold Crusader Extreme"
+    },
+    {
+        "appid":  "415670",
+        "name":  "Highrise Heroes: Word Challenge",
+        "installdir":  "highriseheroes"
+    },
+    {
+        "appid":  "421870",
+        "name":  "Quatros Origins",
+        "installdir":  "Quatros Origins"
+    },
+    {
+        "appid":  "423580",
+        "name":  "Project Highrise",
+        "installdir":  "Project Highrise"
+    },
+    {
+        "appid":  "424250",
+        "name":  "Balrum",
+        "installdir":  "Balrum"
+    },
+    {
+        "appid":  "442500",
+        "name":  "Age of Gladiators",
+        "installdir":  "Age Of Gladiators"
+    },
+    {
+        "appid":  "448820",
+        "name":  "Planet in the Shadows",
+        "installdir":  "Planet in the shadows"
+    },
+    {
+        "appid":  "449160",
+        "name":  "Land it Rocket",
+        "installdir":  "Land it Rocket"
+    },
+    {
+        "appid":  "45100",
+        "name":  "Secret of the Magic Crystal",
+        "installdir":  "Secret of the Magic Crystal"
+    },
+    {
+        "appid":  "456130",
+        "name":  "Space Scaven",
+        "installdir":  "Space Scaven"
+    },
+    {
+        "appid":  "462220",
+        "name":  "Mahjong Deluxe 3",
+        "installdir":  "Mahjong Deluxe 3"
+    },
+    {
+        "appid":  "462680",
+        "name":  "BalanCity",
+        "installdir":  "BalanCity"
+    },
+    {
+        "appid":  "467320",
+        "name":  "God of Word",
+        "installdir":  "God of Word"
+    },
+    {
+        "appid":  "474910",
+        "name":  "The Mahjong Huntress",
+        "installdir":  "Mahjongg Huntress"
+    },
+    {
+        "appid":  "485000",
+        "name":  "Cthulhu Realms",
+        "installdir":  "Cthulhu Realms"
+    },
+    {
+        "appid":  "485490",
+        "name":  "Dungeon Journey",
+        "installdir":  "DungeonJourney"
+    },
+    {
+        "appid":  "486720",
+        "name":  "Bastard Bonds",
+        "installdir":  "Bastard Bonds"
+    },
+    {
+        "appid":  "491160",
+        "name":  "GemBreak",
+        "installdir":  "GemBreak"
+    },
+    {
+        "appid":  "494320",
+        "name":  "Wizrogue - Labyrinth of Wizardry",
+        "installdir":  "Wizrogue"
+    },
+    {
+        "appid":  "498340",
+        "name":  "Shards of Azuria",
+        "installdir":  "Shards of Azuria"
+    },
+    {
+        "appid":  "563120",
+        "name":  "Desolate Wastes: Vendor Chronicles",
+        "installdir":  "Desolate Wastes Vendor Chronicles"
+    },
+    {
+        "appid":  "585180",
+        "name":  "Open Sorcery",
+        "installdir":  "OpenSorcery"
+    },
+    {
+        "appid":  "8800",
+        "name":  "Sid Meier\u0027s Civilization IV: Beyond the Sword",
+        "installdir":  "Sid Meier\u0027s Civilization IV Beyond the Sword"
+    },
+    {
+        "appid":  "97330",
+        "name":  "Magic: The Gathering - Duels of the Planeswalkers 2013",
+        "installdir":  "Magic 2013"
+    },
+    {
+        "appid":  "10130",
+        "name":  "TimeShift",
+        "installdir":  "TimeShift"
+    },
+    {
+        "appid":  "102500",
+        "name":  "Kingdoms of Amalur: Reckoning™",
+        "installdir":  "KOAReckoning"
+    },
+    {
+        "appid":  "105600",
+        "name":  "Terraria",
+        "installdir":  "Terraria"
+    },
+    {
+        "appid":  "107100",
+        "name":  "Bastion",
+        "installdir":  "Bastion"
+    },
+    {
+        "appid":  "107200",
+        "name":  "Space Pirates and Zombies",
+        "installdir":  "Space Pirates and Zombies"
+    },
+    {
+        "appid":  "107800",
+        "name":  "Rochard",
+        "installdir":  "Rochard"
+    },
+    {
+        "appid":  "108500",
+        "name":  "Vessel",
+        "installdir":  "vessel"
+    },
+    {
+        "appid":  "108700",
+        "name":  "Death Rally",
+        "installdir":  "DeathRally"
+    },
+    {
+        "appid":  "108710",
+        "name":  "Alan Wake",
+        "installdir":  "Alan Wake"
+    },
+    {
+        "appid":  "116100",
+        "name":  "Super Toy Cars",
+        "installdir":  "Super Toy Cars"
+    },
+    {
+        "appid":  "12110",
+        "name":  "Grand Theft Auto: Vice City",
+        "installdir":  "Grand Theft Auto Vice City"
+    },
+    {
+        "appid":  "12360",
+        "name":  "FlatOut: Ultimate Carnage",
+        "installdir":  "FlatOut Ultimate Carnage"
+    },
+    {
+        "appid":  "12370",
+        "name":  "Jagged Alliance 2: Gold Pack",
+        "installdir":  "Jagged Alliance 2 Gold"
+    },
+    {
+        "appid":  "12640",
+        "name":  "Drakensang",
+        "installdir":  "Drakensang"
+    },
+    {
+        "appid":  "12750",
+        "name":  "GRID",
+        "installdir":  "Grid"
+    },
+    {
+        "appid":  "12770",
+        "name":  "Rise of the Argonauts",
+        "installdir":  "Rise of the Argonauts"
+    },
+    {
+        "appid":  "12900",
+        "name":  "Audiosurf",
+        "installdir":  "Audiosurf"
+    },
+    {
+        "appid":  "1640",
+        "name":  "Disciples II: Gallean\u0027s Return",
+        "installdir":  "Disciples II Galleans Return"
+    },
+    {
+        "appid":  "16710",
+        "name":  "Insecticide Part 1",
+        "installdir":  "Insecticide Part 1"
+    },
+    {
+        "appid":  "1700",
+        "name":  "Arx Fatalis",
+        "installdir":  "Arx Fatalis"
+    },
+    {
+        "appid":  "17410",
+        "name":  "Mirror\u0027s Edge",
+        "installdir":  "mirrors edge"
+    },
+    {
+        "appid":  "17430",
+        "name":  "Need for Speed: Undercover",
+        "installdir":  "Need for Speed Undercover"
+    },
+    {
+        "appid":  "17460",
+        "name":  "Mass Effect",
+        "installdir":  "Mass Effect"
+    },
+    {
+        "appid":  "17470",
+        "name":  "Dead Space",
+        "installdir":  "Dead Space"
+    },
+    {
+        "appid":  "18120",
+        "name":  "Unstoppable Gorg",
+        "installdir":  "Unstoppable Gorg"
+    },
+    {
+        "appid":  "18300",
+        "name":  "Spectraball",
+        "installdir":  "Spectraball"
+    },
+    {
+        "appid":  "200010",
+        "name":  "Quantum Conundrum",
+        "installdir":  "Quantum Conundrum"
+    },
+    {
+        "appid":  "200170",
+        "name":  "Worms Revolution",
+        "installdir":  "WormsRevolution"
+    },
+    {
+        "appid":  "200260",
+        "name":  "Batman: Arkham City GOTY",
+        "installdir":  "Batman Arkham City GOTY"
+    },
+    {
+        "appid":  "200510",
+        "name":  "XCOM: Enemy Unknown",
+        "installdir":  "XCom-Enemy-Unknown"
+    },
+    {
+        "appid":  "200900",
+        "name":  "Cave Story+",
+        "installdir":  "Cave Story+"
+    },
+    {
+        "appid":  "201830",
+        "name":  "Jurassic Park: The Game",
+        "installdir":  "JurassicPark"
+    },
+    {
+        "appid":  "202170",
+        "name":  "Sleeping Dogs™",
+        "installdir":  "SleepingDogs"
+    },
+    {
+        "appid":  "202200",
+        "name":  "Galactic Civilizations II: Ultimate Edition",
+        "installdir":  "Galactic Civilizations II - Ultimate Edition"
+    },
+    {
+        "appid":  "202310",
+        "name":  "Ridge Racer™ Unbounded",
+        "installdir":  "Ridge Racer Unbounded"
+    },
+    {
+        "appid":  "203140",
+        "name":  "Hitman: Absolution",
+        "installdir":  "Hitman Absolution"
+    },
+    {
+        "appid":  "203160",
+        "name":  "Tomb Raider",
+        "installdir":  "Tomb Raider"
+    },
+    {
+        "appid":  "203750",
+        "name":  "Binary Domain",
+        "installdir":  "Binary Domain"
+    },
+    {
+        "appid":  "204360",
+        "name":  "Castle Crashers",
+        "installdir":  "CastleCrashers"
+    },
+    {
+        "appid":  "204450",
+        "name":  "Call of Juarez Gunslinger",
+        "installdir":  "CoJ Gunslinger"
+    },
+    {
+        "appid":  "204530",
+        "name":  "Infested Planet",
+        "installdir":  "Infested Planet"
+    },
+    {
+        "appid":  "204630",
+        "name":  "Retro City Rampage™ DX",
+        "installdir":  "Retro City Rampage"
+    },
+    {
+        "appid":  "20500",
+        "name":  "Red Faction: Guerrilla Steam Edition",
+        "installdir":  "Red Faction Guerrilla"
+    },
+    {
+        "appid":  "205020",
+        "name":  "Lumino City",
+        "installdir":  "LuminoCity"
+    },
+    {
+        "appid":  "20509",
+        "name":  "Red Faction Guerrilla",
+        "installdir":  "Red Faction Guerrilla"
+    },
+    {
+        "appid":  "205100",
+        "name":  "Dishonored",
+        "installdir":  "Dishonored"
+    },
+    {
+        "appid":  "205650",
+        "name":  "The Testament of Sherlock Holmes",
+        "installdir":  "The Testament of Sherlock Holmes"
+    },
+    {
+        "appid":  "205730",
+        "name":  "Insanely Twisted Shadow Planet",
+        "installdir":  "Insanely Twisted Shadow Planet"
+    },
+    {
+        "appid":  "205810",
+        "name":  "Jagged Alliance: Crossfire",
+        "installdir":  "Jagged Alliance Crossfire"
+    },
+    {
+        "appid":  "205910",
+        "name":  "Tiny and Big: Grandpa\u0027s Leftovers",
+        "installdir":  "TinyAndBig"
+    },
+    {
+        "appid":  "205950",
+        "name":  "Jet Set Radio",
+        "installdir":  "Jet Set Radio"
+    },
+    {
+        "appid":  "206190",
+        "name":  "Gunpoint",
+        "installdir":  "Gunpoint"
+    },
+    {
+        "appid":  "207020",
+        "name":  "Bang Bang Racing",
+        "installdir":  "BangBangRacing"
+    },
+    {
+        "appid":  "207140",
+        "name":  "SpeedRunners",
+        "installdir":  "SpeedRunners"
+    },
+    {
+        "appid":  "207170",
+        "name":  "Legend of Grimrock",
+        "installdir":  "Legend of Grimrock"
+    },
+    {
+        "appid":  "207210",
+        "name":  "Tony Hawk\u0027s Pro Skater HD",
+        "installdir":  "Tony Hawk\u0027s Pro Skater HD"
+    },
+    {
+        "appid":  "207650",
+        "name":  "A Virus Named TOM",
+        "installdir":  "A Virus Named TOM"
+    },
+    {
+        "appid":  "208140",
+        "name":  "Endless Space",
+        "installdir":  "Endless Space"
+    },
+    {
+        "appid":  "208200",
+        "name":  "DOOM 3: BFG Edition",
+        "installdir":  "DOOM 3 BFG Edition"
+    },
+    {
+        "appid":  "208730",
+        "name":  "Game of Thrones ",
+        "installdir":  "Game of Thrones"
+    },
+    {
+        "appid":  "208750",
+        "name":  "Apotheon",
+        "installdir":  "Apotheon"
+    },
+    {
+        "appid":  "20900",
+        "name":  "The Witcher: Enhanced Edition",
+        "installdir":  "The Witcher Enhanced Edition"
+    },
+    {
+        "appid":  "209000",
+        "name":  "Batman™: Arkham Origins",
+        "installdir":  "Batman Arkham Origins"
+    },
+    {
+        "appid":  "209190",
+        "name":  "Stealth Bastard Deluxe",
+        "installdir":  "StealthBastardDeluxe"
+    },
+    {
+        "appid":  "20920",
+        "name":  "The Witcher 2: Assassins of Kings Enhanced Edition",
+        "installdir":  "the witcher 2"
+    },
+    {
+        "appid":  "209330",
+        "name":  "A Valley Without Wind",
+        "installdir":  "A Valley Without Wind"
+    },
+    {
+        "appid":  "209520",
+        "name":  "Mini Motor Racing EVO",
+        "installdir":  "Mini Motor Racing"
+    },
+    {
+        "appid":  "209830",
+        "name":  "Lone Survivor: The Director\u0027s Cut",
+        "installdir":  "Lone Survivor"
+    },
+    {
+        "appid":  "209950",
+        "name":  "Triple Town",
+        "installdir":  "TripleTown"
+    },
+    {
+        "appid":  "21090",
+        "name":  "F.E.A.R.",
+        "installdir":  "FEAR Ultimate Shooter Edition"
+    },
+    {
+        "appid":  "210950",
+        "name":  "Rune Classic",
+        "installdir":  "Rune Classic"
+    },
+    {
+        "appid":  "210970",
+        "name":  "The Witness",
+        "installdir":  "The Witness"
+    },
+    {
+        "appid":  "211180",
+        "name":  "Unmechanical",
+        "installdir":  "Unmechanical"
+    },
+    {
+        "appid":  "211400",
+        "name":  "Deadlight",
+        "installdir":  "Deadlight"
+    },
+    {
+        "appid":  "211440",
+        "name":  "Adventures of Shuggy",
+        "installdir":  "Adventures Of Shuggy"
+    },
+    {
+        "appid":  "212030",
+        "name":  "Kung Fu Strike: The Warrior\u0027s Rise",
+        "installdir":  "KungFuStrike"
+    },
+    {
+        "appid":  "212410",
+        "name":  "Inversion™",
+        "installdir":  "Inversion"
+    },
+    {
+        "appid":  "212480",
+        "name":  "Sonic \u0026 All-Stars Racing Transformed",
+        "installdir":  "Sonic \u0026 All-Stars Racing Transformed"
+    },
+    {
+        "appid":  "213670",
+        "name":  "South Park™: The Stick of Truth™",
+        "installdir":  "South Park - The Stick of Truth"
+    },
+    {
+        "appid":  "213850",
+        "name":  "Magic 2014 ",
+        "installdir":  "Magic 2014"
+    },
+    {
+        "appid":  "214360",
+        "name":  "Tower Wars",
+        "installdir":  "Tower Wars"
+    },
+    {
+        "appid":  "214490",
+        "name":  "Alien: Isolation",
+        "installdir":  "Alien Isolation"
+    },
+    {
+        "appid":  "214560",
+        "name":  "Mark of the Ninja",
+        "installdir":  "mark_of_the_ninja"
+    },
+    {
+        "appid":  "214770",
+        "name":  "Guacamelee! Gold Edition",
+        "installdir":  "Guacamelee"
+    },
+    {
+        "appid":  "214870",
+        "name":  "Painkiller Hell \u0026 Damnation",
+        "installdir":  "Painkiller Hell \u0026 Damnation"
+    },
+    {
+        "appid":  "214970",
+        "name":  "Intrusion 2",
+        "installdir":  "Intrusion 2"
+    },
+    {
+        "appid":  "215510",
+        "name":  "Rocketbirds: Hardboiled Chicken",
+        "installdir":  "rocketbirds_hardboiled"
+    },
+    {
+        "appid":  "215630",
+        "name":  "Demonicon",
+        "installdir":  "demonicon"
+    },
+    {
+        "appid":  "216250",
+        "name":  "Dead Island Riptide",
+        "installdir":  "diriptide"
+    },
+    {
+        "appid":  "216910",
+        "name":  "Of Orcs And Men",
+        "installdir":  "Of Orcs And Men"
+    },
+    {
+        "appid":  "217140",
+        "name":  "Rise of the Triad",
+        "installdir":  "Rise of the Triad"
+    },
+    {
+        "appid":  "217790",
+        "name":  "Dogfight 1942",
+        "installdir":  "Dogfight 1942"
+    },
+    {
+        "appid":  "217920",
+        "name":  "Alien Rage - Unlimited",
+        "installdir":  "AlienRage"
+    },
+    {
+        "appid":  "218130",
+        "name":  "Dungeonland",
+        "installdir":  "Dungeonland"
+    },
+    {
+        "appid":  "218620",
+        "name":  "PAYDAY 2",
+        "installdir":  "PAYDAY 2"
+    },
+    {
+        "appid":  "218740",
+        "name":  "Pid ",
+        "installdir":  "Pid"
+    },
+    {
+        "appid":  "218820",
+        "name":  "Mercenary Kings",
+        "installdir":  "mercenary_kings"
+    },
+    {
+        "appid":  "219190",
+        "name":  "Ultratron",
+        "installdir":  "Ultratron"
+    },
+    {
+        "appid":  "219200",
+        "name":  "Droid Assault",
+        "installdir":  "Droid Assault"
+    },
+    {
+        "appid":  "219830",
+        "name":  "King Arthur\u0027s Gold",
+        "installdir":  "King Arthur\u0027s Gold"
+    },
+    {
+        "appid":  "220",
+        "name":  "Half-Life 2",
+        "installdir":  "Half-Life 2"
+    },
+    {
+        "appid":  "2200",
+        "name":  "Quake III Arena",
+        "installdir":  "Quake 3 Arena"
+    },
+    {
+        "appid":  "220240",
+        "name":  "Far Cry® 3",
+        "installdir":  "Far Cry 3"
+    },
+    {
+        "appid":  "220260",
+        "name":  "Farming Simulator 2013",
+        "installdir":  "Farming Simulator 2013"
+    },
+    {
+        "appid":  "220440",
+        "name":  "DmC Devil May Cry",
+        "installdir":  "DmC Devil May Cry"
+    },
+    {
+        "appid":  "220460",
+        "name":  "Cargo Commander",
+        "installdir":  "cargo commander"
+    },
+    {
+        "appid":  "220780",
+        "name":  "Thomas Was Alone",
+        "installdir":  "thomaswasalone"
+    },
+    {
+        "appid":  "221540",
+        "name":  "Defense Grid 2",
+        "installdir":  "DefenseGrid2"
+    },
+    {
+        "appid":  "22180",
+        "name":  "Penumbra: Overture",
+        "installdir":  "Penumbra Overture"
+    },
+    {
+        "appid":  "222140",
+        "name":  "Puddle",
+        "installdir":  "puddle"
+    },
+    {
+        "appid":  "22230",
+        "name":  "Rock of Ages",
+        "installdir":  "Rock of Ages"
+    },
+    {
+        "appid":  "223220",
+        "name":  "Giana Sisters: Twisted Dreams",
+        "installdir":  "Giana Sisters Twisted Dreams"
+    },
+    {
+        "appid":  "223430",
+        "name":  "Miner Wars 2081",
+        "installdir":  "MinerWars"
+    },
+    {
+        "appid":  "22350",
+        "name":  "BRINK",
+        "installdir":  "BRINK"
+    },
+    {
+        "appid":  "223510",
+        "name":  "Miasmata",
+        "installdir":  "Miasmata"
+    },
+    {
+        "appid":  "22380",
+        "name":  "Fallout: New Vegas",
+        "installdir":  "Fallout New Vegas"
+    },
+    {
+        "appid":  "223830",
+        "name":  "Xenonauts",
+        "installdir":  "Xenonauts"
+    },
+    {
+        "appid":  "224220",
+        "name":  "Pressure",
+        "installdir":  "pressure"
+    },
+    {
+        "appid":  "224440",
+        "name":  "Folk Tale",
+        "installdir":  "Folk Tale"
+    },
+    {
+        "appid":  "224460",
+        "name":  "Contrast",
+        "installdir":  "Contrast"
+    },
+    {
+        "appid":  "224480",
+        "name":  "Octodad: Dadliest Catch",
+        "installdir":  "Octodad Dadliest Catch"
+    },
+    {
+        "appid":  "224760",
+        "name":  "FEZ",
+        "installdir":  "FEZ"
+    },
+    {
+        "appid":  "224860",
+        "name":  "Arma Tactics",
+        "installdir":  "ArmaTactics"
+    },
+    {
+        "appid":  "225080",
+        "name":  "Brothers - A Tale of Two Sons",
+        "installdir":  "Brothers - A Tale of Two Sons"
+    },
+    {
+        "appid":  "225260",
+        "name":  "Brütal Legend",
+        "installdir":  "BrutalLegend"
+    },
+    {
+        "appid":  "225280",
+        "name":  "Full Mojo Rampage",
+        "installdir":  "FullMojoRampage"
+    },
+    {
+        "appid":  "225360",
+        "name":  "DARK",
+        "installdir":  "Dark"
+    },
+    {
+        "appid":  "225420",
+        "name":  "Cities in Motion 2",
+        "installdir":  "Cities in Motion 2"
+    },
+    {
+        "appid":  "225640",
+        "name":  "Sacred 2 Gold",
+        "installdir":  "Sacred 2 Gold"
+    },
+    {
+        "appid":  "22600",
+        "name":  "Worms Reloaded",
+        "installdir":  "Worms Reloaded"
+    },
+    {
+        "appid":  "226100",
+        "name":  "Nom Nom Galaxy",
+        "installdir":  "NomNomGalaxy"
+    },
+    {
+        "appid":  "226980",
+        "name":  "Pinball FX2",
+        "installdir":  "Pinball FX2"
+    },
+    {
+        "appid":  "227300",
+        "name":  "Euro Truck Simulator 2",
+        "installdir":  "Euro Truck Simulator 2"
+    },
+    {
+        "appid":  "227600",
+        "name":  "Castle of Illusion",
+        "installdir":  "Castle of Illusion"
+    },
+    {
+        "appid":  "228200",
+        "name":  "Company of Heroes (New Steam Version)",
+        "installdir":  "Company of Heroes Relaunch"
+    },
+    {
+        "appid":  "228260",
+        "name":  "Fallen Enchantress: Legendary Heroes",
+        "installdir":  "FE Legendary Heroes"
+    },
+    {
+        "appid":  "228300",
+        "name":  "Remember Me",
+        "installdir":  "Remember Me"
+    },
+    {
+        "appid":  "228320",
+        "name":  "A Valley Without Wind 2",
+        "installdir":  "A Valley Without Wind 2"
+    },
+    {
+        "appid":  "228400",
+        "name":  "ACE COMBAT™ ASSAULT HORIZON Enhanced Edition",
+        "installdir":  "Ace Combat Assault Horizon"
+    },
+    {
+        "appid":  "228960",
+        "name":  "Skulls of the Shogun",
+        "installdir":  "Skulls of the Shogun"
+    },
+    {
+        "appid":  "229480",
+        "name":  "Dungeons \u0026 Dragons: Chronicles of Mystara",
+        "installdir":  "Dungeons \u0026 Dragons HD"
+    },
+    {
+        "appid":  "229810",
+        "name":  "A Fistful of Gun",
+        "installdir":  "Fistful of Gun"
+    },
+    {
+        "appid":  "230070",
+        "name":  "The Age of Decadence",
+        "installdir":  "Age of Decadence"
+    },
+    {
+        "appid":  "230700",
+        "name":  "La-Mulana",
+        "installdir":  "La-Mulana"
+    },
+    {
+        "appid":  "2310",
+        "name":  "Quake",
+        "installdir":  "Quake"
+    },
+    {
+        "appid":  "231140",
+        "name":  "Cities XL Platinum",
+        "installdir":  "Cities XL Platinum"
+    },
+    {
+        "appid":  "231330",
+        "name":  "Deadfall Adventures",
+        "installdir":  "Deadfall Adventures"
+    },
+    {
+        "appid":  "2320",
+        "name":  "Quake II",
+        "installdir":  "Quake 2"
+    },
+    {
+        "appid":  "232430",
+        "name":  "Gone Home",
+        "installdir":  "Gone Home"
+    },
+    {
+        "appid":  "232750",
+        "name":  "Mars: War Logs",
+        "installdir":  "Mars War Logs"
+    },
+    {
+        "appid":  "232910",
+        "name":  "TrackMania² Stadium",
+        "installdir":  "ManiaPlanet_TMStadium"
+    },
+    {
+        "appid":  "232970",
+        "name":  "Thunder Wolves",
+        "installdir":  "Thunder Wolves"
+    },
+    {
+        "appid":  "233110",
+        "name":  "Defense Technica",
+        "installdir":  "DefenseTechnica"
+    },
+    {
+        "appid":  "233130",
+        "name":  "Shadow Warrior",
+        "installdir":  "Shadow Warrior"
+    },
+    {
+        "appid":  "233150",
+        "name":  "LUFTRAUSERS",
+        "installdir":  "Luftrausers"
+    },
+    {
+        "appid":  "233190",
+        "name":  "Final Exam",
+        "installdir":  "Final Exam"
+    },
+    {
+        "appid":  "233230",
+        "name":  "Kairo",
+        "installdir":  "Kairo"
+    },
+    {
+        "appid":  "233250",
+        "name":  "Planetary Annihilation",
+        "installdir":  "Planetary Annihilation"
+    },
+    {
+        "appid":  "233450",
+        "name":  "Prison Architect",
+        "installdir":  "Prison Architect"
+    },
+    {
+        "appid":  "233610",
+        "name":  "Distance",
+        "installdir":  "Distance"
+    },
+    {
+        "appid":  "233720",
+        "name":  "Surgeon Simulator",
+        "installdir":  "Surgeon Simulator 2013"
+    },
+    {
+        "appid":  "23380",
+        "name":  "Gyromancer",
+        "installdir":  "Gyromancer"
+    },
+    {
+        "appid":  "233980",
+        "name":  "Unepic",
+        "installdir":  "Unepic"
+    },
+    {
+        "appid":  "234140",
+        "name":  "Mad Max",
+        "installdir":  "Mad Max"
+    },
+    {
+        "appid":  "234290",
+        "name":  "Zack Zero",
+        "installdir":  "ZackZero"
+    },
+    {
+        "appid":  "234390",
+        "name":  "Teleglitch: Die More Edition",
+        "installdir":  "TeleglitchDME"
+    },
+    {
+        "appid":  "234630",
+        "name":  "Project CARS",
+        "installdir":  "pCars"
+    },
+    {
+        "appid":  "234650",
+        "name":  "Shadowrun Returns",
+        "installdir":  "Shadowrun Returns"
+    },
+    {
+        "appid":  "234920",
+        "name":  "Dyscourse",
+        "installdir":  "Dyscourse"
+    },
+    {
+        "appid":  "235210",
+        "name":  "Strider",
+        "installdir":  "Strider"
+    },
+    {
+        "appid":  "235360",
+        "name":  "Prime World: Defenders",
+        "installdir":  "Prime World Defenders"
+    },
+    {
+        "appid":  "235620",
+        "name":  "Small World 2",
+        "installdir":  "SmallWorld2"
+    },
+    {
+        "appid":  "235720",
+        "name":  "Cubetractor",
+        "installdir":  "Cubetractor"
+    },
+    {
+        "appid":  "23600",
+        "name":  "Depths of Peril",
+        "installdir":  "Depths of Peril"
+    },
+    {
+        "appid":  "236090",
+        "name":  "Dust: An Elysian Tail",
+        "installdir":  "Dust An Elysian Tail"
+    },
+    {
+        "appid":  "236110",
+        "name":  "Dungeon Defenders II",
+        "installdir":  "Dungeon Defenders 2"
+    },
+    {
+        "appid":  "237550",
+        "name":  "Realms of Arkania: Blade of Destiny",
+        "installdir":  "Realms of Arkania"
+    },
+    {
+        "appid":  "237930",
+        "name":  "Transistor",
+        "installdir":  "Transistor"
+    },
+    {
+        "appid":  "237950",
+        "name":  "UFO: Afterlight",
+        "installdir":  "UFO Afterlight"
+    },
+    {
+        "appid":  "238010",
+        "name":  "Deus Ex: Human Revolution - Director\u0027s Cut",
+        "installdir":  "Deus Ex Human Revolution Director\u0027s Cut"
+    },
+    {
+        "appid":  "238210",
+        "name":  "System Shock 2",
+        "installdir":  "SS2"
+    },
+    {
+        "appid":  "238280",
+        "name":  "Legend of Dungeon",
+        "installdir":  "LegendofDungeon"
+    },
+    {
+        "appid":  "238320",
+        "name":  "Outlast",
+        "installdir":  "Outlast"
+    },
+    {
+        "appid":  "238460",
+        "name":  "BattleBlock Theater",
+        "installdir":  "BattleBlock Theater"
+    },
+    {
+        "appid":  "238910",
+        "name":  "Bionic Dues",
+        "installdir":  "Bionic_Dues"
+    },
+    {
+        "appid":  "239070",
+        "name":  "Hammerwatch",
+        "installdir":  "Hammerwatch"
+    },
+    {
+        "appid":  "239160",
+        "name":  "Thief",
+        "installdir":  "Thief"
+    },
+    {
+        "appid":  "239350",
+        "name":  "Spelunky",
+        "installdir":  "Spelunky"
+    },
+    {
+        "appid":  "239840",
+        "name":  "Dead State",
+        "installdir":  "Dead State"
+    },
+    {
+        "appid":  "240760",
+        "name":  "Wasteland 2",
+        "installdir":  "Wasteland 2"
+    },
+    {
+        "appid":  "241410",
+        "name":  "CastleStorm",
+        "installdir":  "CastleStorm"
+    },
+    {
+        "appid":  "241540",
+        "name":  "State of Decay",
+        "installdir":  "State of Decay"
+    },
+    {
+        "appid":  "241600",
+        "name":  "Rogue Legacy",
+        "installdir":  "Rogue Legacy"
+    },
+    {
+        "appid":  "241930",
+        "name":  "Middle-earth: Shadow of Mordor",
+        "installdir":  "ShadowOfMordor"
+    },
+    {
+        "appid":  "24240",
+        "name":  "PAYDAY: The Heist",
+        "installdir":  "PAYDAY The Heist"
+    },
+    {
+        "appid":  "242530",
+        "name":  "The Chaos Engine",
+        "installdir":  "Chaos engine"
+    },
+    {
+        "appid":  "242570",
+        "name":  "Space Hulk",
+        "installdir":  "Space Hulk"
+    },
+    {
+        "appid":  "242640",
+        "name":  "Styx: Master of Shadows",
+        "installdir":  "Styx"
+    },
+    {
+        "appid":  "242680",
+        "name":  "Nuclear Throne",
+        "installdir":  "Nuclear Throne"
+    },
+    {
+        "appid":  "242760",
+        "name":  "The Forest",
+        "installdir":  "The Forest"
+    },
+    {
+        "appid":  "242840",
+        "name":  "In Verbis Virtus",
+        "installdir":  "In Verbis Virtus"
+    },
+    {
+        "appid":  "242880",
+        "name":  "Sir, You Are Being Hunted",
+        "installdir":  "SirYouAreBeingHunted"
+    },
+    {
+        "appid":  "242920",
+        "name":  "Banished",
+        "installdir":  "Banished"
+    },
+    {
+        "appid":  "243120",
+        "name":  "Betrayer",
+        "installdir":  "Betrayer"
+    },
+    {
+        "appid":  "243160",
+        "name":  "Mushroom 11",
+        "installdir":  "Mushroom 11"
+    },
+    {
+        "appid":  "243220",
+        "name":  "FRACT OSC",
+        "installdir":  "FRACTOSC"
+    },
+    {
+        "appid":  "243450",
+        "name":  "Urban Trial Freestyle",
+        "installdir":  "Urban Trial Freestyle"
+    },
+    {
+        "appid":  "243780",
+        "name":  "PixelJunk™ Monsters Ultimate",
+        "installdir":  "Monsters"
+    },
+    {
+        "appid":  "243930",
+        "name":  "Bound By Flame",
+        "installdir":  "Bound By Flame"
+    },
+    {
+        "appid":  "243950",
+        "name":  "Divinity: Dragon Commander",
+        "installdir":  "Divinity Dragon Commander"
+    },
+    {
+        "appid":  "24400",
+        "name":  "King Arthur - The Role-playing Wargame",
+        "installdir":  "King Arthur - The Role-playing Wargame"
+    },
+    {
+        "appid":  "24420",
+        "name":  "Aquaria",
+        "installdir":  "Aquaria"
+    },
+    {
+        "appid":  "244730",
+        "name":  "Divekick",
+        "installdir":  "Divekick"
+    },
+    {
+        "appid":  "244770",
+        "name":  "StarMade",
+        "installdir":  "StarMade"
+    },
+    {
+        "appid":  "244810",
+        "name":  "Foul Play",
+        "installdir":  "Foul Play"
+    },
+    {
+        "appid":  "244850",
+        "name":  "Space Engineers",
+        "installdir":  "SpaceEngineers"
+    },
+    {
+        "appid":  "245450",
+        "name":  "Wizardry 8",
+        "installdir":  "Wizardry8"
+    },
+    {
+        "appid":  "246070",
+        "name":  "Hack \u0027n\u0027 Slash",
+        "installdir":  "HacknSlash"
+    },
+    {
+        "appid":  "246110",
+        "name":  "MASSIVE CHALICE",
+        "installdir":  "Massive Chalice"
+    },
+    {
+        "appid":  "246580",
+        "name":  "The Typing of The Dead: Overkill",
+        "installdir":  "Typing of the Dead Overkill"
+    },
+    {
+        "appid":  "246680",
+        "name":  "Secrets of Rætikon",
+        "installdir":  "Secrets of Raetikon"
+    },
+    {
+        "appid":  "246760",
+        "name":  "Legends of Eisenwald",
+        "installdir":  "Eisenwald"
+    },
+    {
+        "appid":  "246900",
+        "name":  "Viscera Cleanup Detail",
+        "installdir":  "Viscera"
+    },
+    {
+        "appid":  "246980",
+        "name":  "InFlux",
+        "installdir":  "InFlux"
+    },
+    {
+        "appid":  "247000",
+        "name":  "Talisman: Digital Edition",
+        "installdir":  "Talisman"
+    },
+    {
+        "appid":  "247080",
+        "name":  "Crypt of the NecroDancer",
+        "installdir":  "Crypt of the NecroDancer"
+    },
+    {
+        "appid":  "247240",
+        "name":  "Volgarr the Viking",
+        "installdir":  "Volgarr"
+    },
+    {
+        "appid":  "24740",
+        "name":  "Burnout Paradise: The Ultimate Box",
+        "installdir":  "Burnout(TM) Paradise The Ultimate Box"
+    },
+    {
+        "appid":  "247660",
+        "name":  "Deadly Premonition: The Director\u0027s Cut",
+        "installdir":  "Deadly Premonition The Director\u0027s Cut"
+    },
+    {
+        "appid":  "248310",
+        "name":  "Freedom Planet",
+        "installdir":  "Freedom Planet"
+    },
+    {
+        "appid":  "248390",
+        "name":  "Craft The World",
+        "installdir":  "CraftTheWorld"
+    },
+    {
+        "appid":  "248410",
+        "name":  "Legends of Aethereus",
+        "installdir":  "LegendsOfAethereus"
+    },
+    {
+        "appid":  "248550",
+        "name":  "Megabyte Punch",
+        "installdir":  "MegabytePunch"
+    },
+    {
+        "appid":  "248610",
+        "name":  "Door Kickers",
+        "installdir":  "DoorKickers"
+    },
+    {
+        "appid":  "24870",
+        "name":  "Need for Speed: SHIFT",
+        "installdir":  "Need For Speed Shift"
+    },
+    {
+        "appid":  "248820",
+        "name":  "Risk of Rain",
+        "installdir":  "Risk of Rain"
+    },
+    {
+        "appid":  "249050",
+        "name":  "Dungeon of the Endless",
+        "installdir":  "Dungeon of the Endless"
+    },
+    {
+        "appid":  "249130",
+        "name":  "LEGO® MARVEL Super Heroes",
+        "installdir":  "LEGO Marvel Super Heroes"
+    },
+    {
+        "appid":  "249380",
+        "name":  "Carmageddon: Reincarnation",
+        "installdir":  "Carmageddon_Reincarnation"
+    },
+    {
+        "appid":  "249590",
+        "name":  "Teslagrad",
+        "installdir":  "Teslagrad"
+    },
+    {
+        "appid":  "249630",
+        "name":  "Delver",
+        "installdir":  "Delver"
+    },
+    {
+        "appid":  "249650",
+        "name":  "Blackguards",
+        "installdir":  "Blackguards"
+    },
+    {
+        "appid":  "249990",
+        "name":  "FORCED",
+        "installdir":  "FORCED"
+    },
+    {
+        "appid":  "250110",
+        "name":  "Assault Android Cactus",
+        "installdir":  "Assault Android Cactus"
+    },
+    {
+        "appid":  "250460",
+        "name":  "Bridge Constructor",
+        "installdir":  "BridgeConstructor"
+    },
+    {
+        "appid":  "250560",
+        "name":  "Fight The Dragon",
+        "installdir":  "FightTheDragon"
+    },
+    {
+        "appid":  "250580",
+        "name":  "Paranautical Activity: Deluxe Atonement Edition",
+        "installdir":  "ParanauticalActivity"
+    },
+    {
+        "appid":  "250620",
+        "name":  "Among the Sleep",
+        "installdir":  "Among the Sleep"
+    },
+    {
+        "appid":  "250700",
+        "name":  "Super Time Force Ultra",
+        "installdir":  "SuperTimeForceUltra"
+    },
+    {
+        "appid":  "251110",
+        "name":  "INFRA",
+        "installdir":  "infra"
+    },
+    {
+        "appid":  "251230",
+        "name":  "Livelock",
+        "installdir":  "Livelock"
+    },
+    {
+        "appid":  "251470",
+        "name":  "TowerFall Ascension",
+        "installdir":  "TowerFall"
+    },
+    {
+        "appid":  "251690",
+        "name":  "Speedball 2 HD",
+        "installdir":  "Speedball 2 HD"
+    },
+    {
+        "appid":  "251730",
+        "name":  "Legend of Grimrock 2",
+        "installdir":  "Legend of Grimrock 2"
+    },
+    {
+        "appid":  "252030",
+        "name":  "Valdis Story: Abyssal City",
+        "installdir":  "ValdisStoryAbyssalCity"
+    },
+    {
+        "appid":  "252110",
+        "name":  "Lovers in a Dangerous Spacetime",
+        "installdir":  "Lovers in a Dangerous Spacetime"
+    },
+    {
+        "appid":  "252290",
+        "name":  "Elegy For A Dead World",
+        "installdir":  "ElegyForADeadWorld"
+    },
+    {
+        "appid":  "252350",
+        "name":  "Double Dragon Neon",
+        "installdir":  "Double Dragon Neon"
+    },
+    {
+        "appid":  "252430",
+        "name":  "Dusty Revenge",
+        "installdir":  "DustyRevenge"
+    },
+    {
+        "appid":  "252490",
+        "name":  "Rust",
+        "installdir":  "Rust"
+    },
+    {
+        "appid":  "252570",
+        "name":  "Depths of Fear :: Knossos",
+        "installdir":  "Depths of Fear Knossos"
+    },
+    {
+        "appid":  "252630",
+        "name":  "Eldritch",
+        "installdir":  "Eldritch"
+    },
+    {
+        "appid":  "252770",
+        "name":  "Vox",
+        "installdir":  "Vox"
+    },
+    {
+        "appid":  "252830",
+        "name":  "Claire",
+        "installdir":  "Claire"
+    },
+    {
+        "appid":  "252950",
+        "name":  "Rocket League",
+        "installdir":  "rocketleague"
+    },
+    {
+        "appid":  "253190",
+        "name":  "Kingdom Wars 2: Battles",
+        "installdir":  "KW2 Battles"
+    },
+    {
+        "appid":  "253250",
+        "name":  "Stonehearth",
+        "installdir":  "Stonehearth"
+    },
+    {
+        "appid":  "253290",
+        "name":  "FOTONICA",
+        "installdir":  "Fotonica"
+    },
+    {
+        "appid":  "253410",
+        "name":  "Ravensword: Shadowlands",
+        "installdir":  "Ravensword2"
+    },
+    {
+        "appid":  "253470",
+        "name":  "Real World Racing",
+        "installdir":  "RWR"
+    },
+    {
+        "appid":  "253610",
+        "name":  "Wrack",
+        "installdir":  "Wrack"
+    },
+    {
+        "appid":  "253650",
+        "name":  "Sparkle 2 Evo",
+        "installdir":  "Sparkle2"
+    },
+    {
+        "appid":  "254200",
+        "name":  "FortressCraft Evolved",
+        "installdir":  "FortressCraft"
+    },
+    {
+        "appid":  "254700",
+        "name":  "resident evil 4 / biohazard 4",
+        "installdir":  "Resident Evil 4"
+    },
+    {
+        "appid":  "254960",
+        "name":  "Silent Storm",
+        "installdir":  "Silent Storm"
+    },
+    {
+        "appid":  "254980",
+        "name":  "Silent Storm Sentinels",
+        "installdir":  "Silent Storm Sentinels"
+    },
+    {
+        "appid":  "255390",
+        "name":  "Max: The Curse of Brotherhood",
+        "installdir":  "Max The Curse of Brotherhood"
+    },
+    {
+        "appid":  "255520",
+        "name":  "Viscera Cleanup Detail: Shadow Warrior",
+        "installdir":  "Viscera Cleanup Detail Shadow Warrior"
+    },
+    {
+        "appid":  "255870",
+        "name":  "PixelJunk™ Shooter",
+        "installdir":  "Shooter"
+    },
+    {
+        "appid":  "256190",
+        "name":  "Enemy Front",
+        "installdir":  "Enemy Front"
+    },
+    {
+        "appid":  "258050",
+        "name":  "Survivor Squad",
+        "installdir":  "Survivor Squad"
+    },
+    {
+        "appid":  "258880",
+        "name":  "Professional Farmer 2014",
+        "installdir":  "Professional Farmer 2014"
+    },
+    {
+        "appid":  "258970",
+        "name":  "Gauntlet™ ",
+        "installdir":  "Gauntlet"
+    },
+    {
+        "appid":  "25900",
+        "name":  "King\u0027s Bounty: The Legend",
+        "installdir":  "King\u0027s Bounty - The Legend"
+    },
+    {
+        "appid":  "259410",
+        "name":  "Sneaky Sneaky",
+        "installdir":  "SneakySneaky"
+    },
+    {
+        "appid":  "259530",
+        "name":  "Savant - Ascent",
+        "installdir":  "SavantAscent"
+    },
+    {
+        "appid":  "259570",
+        "name":  "Eden Star :: Destroy - Build - Protect",
+        "installdir":  "Eden Star Pre-Alpha"
+    },
+    {
+        "appid":  "2600",
+        "name":  "Vampire: The Masquerade - Bloodlines",
+        "installdir":  "Vampire The Masquerade - Bloodlines"
+    },
+    {
+        "appid":  "260000",
+        "name":  "YOU DON\u0027T KNOW JACK MOVIES",
+        "installdir":  "YDKJ_MOVIES"
+    },
+    {
+        "appid":  "260190",
+        "name":  "Marc Eckō\u0027s Getting Up: Contents Under Pressure",
+        "installdir":  "Marc Ecko\u0027s Getting Up 2"
+    },
+    {
+        "appid":  "261110",
+        "name":  "Killer is Dead",
+        "installdir":  "KillerIsDead"
+    },
+    {
+        "appid":  "261530",
+        "name":  "Lifeless Planet",
+        "installdir":  "Lifeless Planet"
+    },
+    {
+        "appid":  "261760",
+        "name":  "Lichdom: Battlemage",
+        "installdir":  "Lichdom Battlemage"
+    },
+    {
+        "appid":  "261960",
+        "name":  "Cube \u0026 Star: An Arbitrary Love",
+        "installdir":  "CubeAndStar_AnArbitraryLove"
+    },
+    {
+        "appid":  "262060",
+        "name":  "Darkest Dungeon",
+        "installdir":  "DarkestDungeon"
+    },
+    {
+        "appid":  "262120",
+        "name":  "Toy Soldiers: Complete",
+        "installdir":  "Toy Soldiers Complete"
+    },
+    {
+        "appid":  "262390",
+        "name":  "Cloudbuilt",
+        "installdir":  "Cloudbuilt"
+    },
+    {
+        "appid":  "262470",
+        "name":  "Rollers of the Realm",
+        "installdir":  "RollersOfTheRealm"
+    },
+    {
+        "appid":  "262960",
+        "name":  "Castle In The Darkness",
+        "installdir":  "Castle In The Darkness"
+    },
+    {
+        "appid":  "263080",
+        "name":  "Pixel Boy and the Ever Expanding Dungeon",
+        "installdir":  "Pixel Boy"
+    },
+    {
+        "appid":  "263360",
+        "name":  "3089 -- Futuristic Action RPG",
+        "installdir":  "3089"
+    },
+    {
+        "appid":  "263700",
+        "name":  "Muffin Knight",
+        "installdir":  "Muffin Knight"
+    },
+    {
+        "appid":  "263960",
+        "name":  "Wyv and Keep: The Temple of the Lost Idol",
+        "installdir":  "Wyv and Keep in The Temple of the Lost Idol"
+    },
+    {
+        "appid":  "263980",
+        "name":  "Out There Somewhere",
+        "installdir":  "outtheresomewhere"
+    },
+    {
+        "appid":  "264000",
+        "name":  "Son of Nor",
+        "installdir":  "Son of Nor"
+    },
+    {
+        "appid":  "264060",
+        "name":  "Full Bore",
+        "installdir":  "FullBore"
+    },
+    {
+        "appid":  "264200",
+        "name":  "One Finger Death Punch",
+        "installdir":  "One Finger Death Punch"
+    },
+    {
+        "appid":  "264240",
+        "name":  "CONSORTIUM",
+        "installdir":  "Consortium"
+    },
+    {
+        "appid":  "264540",
+        "name":  "Platformines",
+        "installdir":  "Platformines"
+    },
+    {
+        "appid":  "264580",
+        "name":  "Lost Civilization",
+        "installdir":  "Lost Civilization"
+    },
+    {
+        "appid":  "264710",
+        "name":  "Subnautica",
+        "installdir":  "Subnautica"
+    },
+    {
+        "appid":  "265300",
+        "name":  "Lords Of The Fallen",
+        "installdir":  "Lords Of The Fallen"
+    },
+    {
+        "appid":  "265380",
+        "name":  "Grimind",
+        "installdir":  "Grimind"
+    },
+    {
+        "appid":  "265590",
+        "name":  "The Red Solstice",
+        "installdir":  "TheRedSolstice"
+    },
+    {
+        "appid":  "265830",
+        "name":  "Monochroma",
+        "installdir":  "Monochroma"
+    },
+    {
+        "appid":  "265930",
+        "name":  "Goat Simulator",
+        "installdir":  "GoatSimulator"
+    },
+    {
+        "appid":  "266110",
+        "name":  "Tower of Guns",
+        "installdir":  "TowerofGuns"
+    },
+    {
+        "appid":  "266130",
+        "name":  "Breach \u0026 Clear",
+        "installdir":  "BreachAndClear"
+    },
+    {
+        "appid":  "266250",
+        "name":  "Procyon",
+        "installdir":  "Procyon"
+    },
+    {
+        "appid":  "266390",
+        "name":  "Farm for your Life",
+        "installdir":  "Farm for your Life"
+    },
+    {
+        "appid":  "266510",
+        "name":  "Hand of Fate",
+        "installdir":  "Hand of Fate"
+    },
+    {
+        "appid":  "267980",
+        "name":  "Hostile Waters: Antaeus Rising",
+        "installdir":  "Hostile Waters Antaeus Rising"
+    },
+    {
+        "appid":  "268200",
+        "name":  "Antisquad",
+        "installdir":  "Antisquad"
+    },
+    {
+        "appid":  "268220",
+        "name":  "Meltdown",
+        "installdir":  "Meltdown"
+    },
+    {
+        "appid":  "268360",
+        "name":  "Krautscape",
+        "installdir":  "Krautscape"
+    },
+    {
+        "appid":  "268650",
+        "name":  "From The Depths",
+        "installdir":  "From The Depths"
+    },
+    {
+        "appid":  "268750",
+        "name":  "Magicite",
+        "installdir":  "Magicite"
+    },
+    {
+        "appid":  "268870",
+        "name":  "Satellite Reign",
+        "installdir":  "SatelliteReign"
+    },
+    {
+        "appid":  "269110",
+        "name":  "Super Motherload",
+        "installdir":  "Super Motherload"
+    },
+    {
+        "appid":  "269210",
+        "name":  "Hero Siege",
+        "installdir":  "HeroSiege"
+    },
+    {
+        "appid":  "269610",
+        "name":  "Arcane Worlds",
+        "installdir":  "ArcaneWorlds"
+    },
+    {
+        "appid":  "269650",
+        "name":  "Dex",
+        "installdir":  "Dex"
+    },
+    {
+        "appid":  "269690",
+        "name":  "RymdResa",
+        "installdir":  "RymdResa"
+    },
+    {
+        "appid":  "269710",
+        "name":  "Tumblestone",
+        "installdir":  "Tumblestone"
+    },
+    {
+        "appid":  "269790",
+        "name":  "DreadOut",
+        "installdir":  "DreadOut"
+    },
+    {
+        "appid":  "270770",
+        "name":  "Etherlords",
+        "installdir":  "Etherlords"
+    },
+    {
+        "appid":  "270850",
+        "name":  "Car Mechanic Simulator 2014",
+        "installdir":  "Car Mechanic Simulator"
+    },
+    {
+        "appid":  "272890",
+        "name":  "Vertiginous Golf",
+        "installdir":  "Vertiginous Golf"
+    },
+    {
+        "appid":  "274190",
+        "name":  "Broforce",
+        "installdir":  "Broforce"
+    },
+    {
+        "appid":  "274230",
+        "name":  "RONIN",
+        "installdir":  "RONIN"
+    },
+    {
+        "appid":  "274250",
+        "name":  "OlliOlli",
+        "installdir":  "OlliOlli"
+    },
+    {
+        "appid":  "274270",
+        "name":  "NOT A HERO",
+        "installdir":  "Not a Hero"
+    },
+    {
+        "appid":  "274480",
+        "name":  "Drox Operative",
+        "installdir":  "Drox Operative"
+    },
+    {
+        "appid":  "274500",
+        "name":  "Brigador: Up-Armored Edition",
+        "installdir":  "Brigador"
+    },
+    {
+        "appid":  "274560",
+        "name":  "Revolution Ace",
+        "installdir":  "Revolution Ace"
+    },
+    {
+        "appid":  "274880",
+        "name":  "Jet Car Stunts",
+        "installdir":  "JetCarStunts"
+    },
+    {
+        "appid":  "275080",
+        "name":  "Post Master ",
+        "installdir":  "Post Master Simulator"
+    },
+    {
+        "appid":  "275100",
+        "name":  "Shelter 2",
+        "installdir":  "Shelter2"
+    },
+    {
+        "appid":  "275200",
+        "name":  "Westerado: Double Barreled",
+        "installdir":  "Westerado"
+    },
+    {
+        "appid":  "275470",
+        "name":  "Chip",
+        "installdir":  "Chip"
+    },
+    {
+        "appid":  "275670",
+        "name":  "Space Run",
+        "installdir":  "Space Run"
+    },
+    {
+        "appid":  "2760",
+        "name":  "Neverwinter Nights 2: Platinum",
+        "installdir":  "Neverwinter Nights 2"
+    },
+    {
+        "appid":  "276810",
+        "name":  "Mordheim: City of the Damned",
+        "installdir":  "mordheim"
+    },
+    {
+        "appid":  "276870",
+        "name":  "Dwelvers",
+        "installdir":  "Dwelvers"
+    },
+    {
+        "appid":  "277430",
+        "name":  "Halo: Spartan Assault",
+        "installdir":  "Halo Spartan Assault"
+    },
+    {
+        "appid":  "277490",
+        "name":  "Battle Group 2",
+        "installdir":  "Battlegroup2"
+    },
+    {
+        "appid":  "277870",
+        "name":  "Diehard Dungeon",
+        "installdir":  "DiehardDungeon"
+    },
+    {
+        "appid":  "277930",
+        "name":  "TUG",
+        "installdir":  "TUG"
+    },
+    {
+        "appid":  "278100",
+        "name":  "RIVE",
+        "installdir":  "RIVE"
+    },
+    {
+        "appid":  "278360",
+        "name":  "A Story About My Uncle",
+        "installdir":  "A Story About My Uncle"
+    },
+    {
+        "appid":  "278620",
+        "name":  "TinyKeep",
+        "installdir":  "TinyKeep"
+    },
+    {
+        "appid":  "278810",
+        "name":  "LA Cops",
+        "installdir":  "LA Cops"
+    },
+    {
+        "appid":  "278930",
+        "name":  "Gigantic Army",
+        "installdir":  "Gigantic Army"
+    },
+    {
+        "appid":  "279070",
+        "name":  "9th Dawn II",
+        "installdir":  "9thDawnII"
+    },
+    {
+        "appid":  "279440",
+        "name":  "Joe Dever\u0027s Lone Wolf HD Remastered",
+        "installdir":  "Joe Dever’s Lone Wolf"
+    },
+    {
+        "appid":  "279580",
+        "name":  "Devil\u0027s Dare",
+        "installdir":  "Devil\u0027s Dare"
+    },
+    {
+        "appid":  "279720",
+        "name":  "The I of the Dragon",
+        "installdir":  "The I of the Dragon"
+    },
+    {
+        "appid":  "279900",
+        "name":  "Soul Axiom",
+        "installdir":  "Soul Axiom"
+    },
+    {
+        "appid":  "280040",
+        "name":  "A Wizard\u0027s Lizard",
+        "installdir":  "A Wizards Lizard"
+    },
+    {
+        "appid":  "280360",
+        "name":  "Interstellaria",
+        "installdir":  "Interstellaria"
+    },
+    {
+        "appid":  "280790",
+        "name":  "Creativerse",
+        "installdir":  "Creativerse"
+    },
+    {
+        "appid":  "281200",
+        "name":  "A Boy and His Blob",
+        "installdir":  "A Boy and His Blob"
+    },
+    {
+        "appid":  "281450",
+        "name":  "Disciples Sacred Lands Gold",
+        "installdir":  "Disciples Sacred Lands Gold"
+    },
+    {
+        "appid":  "281940",
+        "name":  "Woolfe - The Red Hood Diaries",
+        "installdir":  "WoolfeTRHD"
+    },
+    {
+        "appid":  "282070",
+        "name":  "This War of Mine",
+        "installdir":  "This War of Mine"
+    },
+    {
+        "appid":  "282530",
+        "name":  "Castlevania: Lords of Shadow – Mirror of Fate HD",
+        "installdir":  "Castlevania Lords of Shadow - Mirror of Fate HD"
+    },
+    {
+        "appid":  "282620",
+        "name":  "The Battle of Sol",
+        "installdir":  "The Battle of Sol"
+    },
+    {
+        "appid":  "284180",
+        "name":  "Magicians \u0026 Looters",
+        "installdir":  "Magicians and Looters"
+    },
+    {
+        "appid":  "284240",
+        "name":  "Maize",
+        "installdir":  "Maize"
+    },
+    {
+        "appid":  "284410",
+        "name":  "Cornerstone: The Song Of Tyrim",
+        "installdir":  "Cornerstone, The Song Of Tyrim"
+    },
+    {
+        "appid":  "284460",
+        "name":  "DeadCore",
+        "installdir":  "DeadCore"
+    },
+    {
+        "appid":  "284930",
+        "name":  "Speed Kills",
+        "installdir":  "Speed Kills"
+    },
+    {
+        "appid":  "284990",
+        "name":  "Solarix",
+        "installdir":  "Solarix"
+    },
+    {
+        "appid":  "2850",
+        "name":  "X-Tension",
+        "installdir":  "X-Tension"
+    },
+    {
+        "appid":  "285070",
+        "name":  "Between Me and The Night",
+        "installdir":  "Between me and The Night"
+    },
+    {
+        "appid":  "285500",
+        "name":  "Hard Truck Apocalypse / Ex Machina",
+        "installdir":  "Hard Truck Apocalypse"
+    },
+    {
+        "appid":  "286140",
+        "name":  "Eidolon",
+        "installdir":  "Eidolon"
+    },
+    {
+        "appid":  "286160",
+        "name":  "Tabletop Simulator",
+        "installdir":  "Tabletop Simulator"
+    },
+    {
+        "appid":  "287260",
+        "name":  "Toybox Turbos",
+        "installdir":  "ToyboxTurbos"
+    },
+    {
+        "appid":  "287980",
+        "name":  "Mini Metro",
+        "installdir":  "MiniMetro"
+    },
+    {
+        "appid":  "288020",
+        "name":  "Rex Rocket",
+        "installdir":  "Rex Rocket"
+    },
+    {
+        "appid":  "289090",
+        "name":  "Ampu-Tea",
+        "installdir":  "Ampu-Tea"
+    },
+    {
+        "appid":  "289400",
+        "name":  "Parkan 2",
+        "installdir":  "Parkan2"
+    },
+    {
+        "appid":  "289440",
+        "name":  "Perimeter",
+        "installdir":  "Perimeter"
+    },
+    {
+        "appid":  "289690",
+        "name":  "Lara Croft and the Temple of Osiris",
+        "installdir":  "Lara Croft and the Temple of Osiris"
+    },
+    {
+        "appid":  "289950",
+        "name":  "Construction-Simulator 2015",
+        "installdir":  "ConSim2015"
+    },
+    {
+        "appid":  "290040",
+        "name":  "Retro Game Crunch",
+        "installdir":  "Retro Game Crunch"
+    },
+    {
+        "appid":  "290280",
+        "name":  "Volt",
+        "installdir":  "Volt"
+    },
+    {
+        "appid":  "290300",
+        "name":  "Rebel Galaxy",
+        "installdir":  "RebelGalaxy"
+    },
+    {
+        "appid":  "290770",
+        "name":  "The Fall",
+        "installdir":  "TheFall"
+    },
+    {
+        "appid":  "291960",
+        "name":  "Elminage Gothic",
+        "installdir":  "Elminage Gothic"
+    },
+    {
+        "appid":  "292410",
+        "name":  "Street Racing Syndicate",
+        "installdir":  "Street Racing Syndicate"
+    },
+    {
+        "appid":  "292570",
+        "name":  "Chompy Chomp Chomp",
+        "installdir":  "Chompy Chomp Chomp"
+    },
+    {
+        "appid":  "293240",
+        "name":  "Cosmochoria",
+        "installdir":  "Cosmochoria"
+    },
+    {
+        "appid":  "293440",
+        "name":  "Elliot Quest",
+        "installdir":  "ElliotQuestApp"
+    },
+    {
+        "appid":  "293480",
+        "name":  "FRONTIERS",
+        "installdir":  "FRONTIERS"
+    },
+    {
+        "appid":  "293660",
+        "name":  "TRI: Of Friendship and Madness",
+        "installdir":  "TRI"
+    },
+    {
+        "appid":  "293780",
+        "name":  "Crawl",
+        "installdir":  "Crawl"
+    },
+    {
+        "appid":  "293900",
+        "name":  "Pivvot",
+        "installdir":  "Pivvot"
+    },
+    {
+        "appid":  "294000",
+        "name":  "Knight Squad",
+        "installdir":  "KnightSquad"
+    },
+    {
+        "appid":  "294060",
+        "name":  "Aaru\u0027s Awakening",
+        "installdir":  "Aaru\u0027s Awakening"
+    },
+    {
+        "appid":  "294370",
+        "name":  "Crowntakers",
+        "installdir":  "Crowntakers"
+    },
+    {
+        "appid":  "294440",
+        "name":  "Shadowgate",
+        "installdir":  "Shadowgate"
+    },
+    {
+        "appid":  "294860",
+        "name":  "Valkyria Chronicles™",
+        "installdir":  "Valkyria Chronicles"
+    },
+    {
+        "appid":  "295750",
+        "name":  "The Floor is Jelly",
+        "installdir":  "TheFloorIsJelly"
+    },
+    {
+        "appid":  "295770",
+        "name":  "Rogue Shooter: The FPS Roguelike",
+        "installdir":  "Rogue Shooter"
+    },
+    {
+        "appid":  "295790",
+        "name":  "Never Alone (Kisima Ingitchuna)",
+        "installdir":  "NeverAlone"
+    },
+    {
+        "appid":  "295870",
+        "name":  "The Dungeoning",
+        "installdir":  "The Dungeoning"
+    },
+    {
+        "appid":  "296010",
+        "name":  "NeonXSZ",
+        "installdir":  "NeonXSZ"
+    },
+    {
+        "appid":  "296510",
+        "name":  "Magnetic By Nature",
+        "installdir":  "MBN"
+    },
+    {
+        "appid":  "296570",
+        "name":  "Lords of Xulima",
+        "installdir":  "LordsOfXulima"
+    },
+    {
+        "appid":  "296770",
+        "name":  "Real Boxing™",
+        "installdir":  "RealBoxing"
+    },
+    {
+        "appid":  "296870",
+        "name":  "Dreaming Sarah",
+        "installdir":  "Dreaming Sarah"
+    },
+    {
+        "appid":  "296970",
+        "name":  "Renowned Explorers: International Society",
+        "installdir":  "Renowned Explorers"
+    },
+    {
+        "appid":  "297060",
+        "name":  "Freaking Meatbags",
+        "installdir":  "Freaking Meatbags"
+    },
+    {
+        "appid":  "297330",
+        "name":  "Arcadecraft",
+        "installdir":  "Arcadecraft"
+    },
+    {
+        "appid":  "297350",
+        "name":  "The Old City: Leviathan",
+        "installdir":  "Old City"
+    },
+    {
+        "appid":  "297490",
+        "name":  "Spy Chameleon - RGB Agent",
+        "installdir":  "Spy Chameleon RGB Agent"
+    },
+    {
+        "appid":  "297720",
+        "name":  "Corpse of Discovery",
+        "installdir":  "Corpse of Discovery"
+    },
+    {
+        "appid":  "297920",
+        "name":  "Space Colony",
+        "installdir":  "Space Colony"
+    },
+    {
+        "appid":  "298340",
+        "name":  "Flashout 2",
+        "installdir":  "Flashout2"
+    },
+    {
+        "appid":  "298360",
+        "name":  "Immortal Defense",
+        "installdir":  "ImmortalDefense"
+    },
+    {
+        "appid":  "2990",
+        "name":  "FlatOut 2",
+        "installdir":  "FlatOut2"
+    },
+    {
+        "appid":  "299030",
+        "name":  "Blood: One Unit Whole Blood",
+        "installdir":  "One Unit Whole Blood"
+    },
+    {
+        "appid":  "299340",
+        "name":  "Habitat",
+        "installdir":  "Habitat"
+    },
+    {
+        "appid":  "299480",
+        "name":  "Rogue Stormers",
+        "installdir":  "RogueStormers"
+    },
+    {
+        "appid":  "299680",
+        "name":  "Tengami",
+        "installdir":  "Tengami"
+    },
+    {
+        "appid":  "299720",
+        "name":  "Terrorhedron",
+        "installdir":  "Terrorhedron"
+    },
+    {
+        "appid":  "300340",
+        "name":  "Lemma",
+        "installdir":  "Lemma"
+    },
+    {
+        "appid":  "300380",
+        "name":  "Road Redemption",
+        "installdir":  "RoadRedemption"
+    },
+    {
+        "appid":  "300550",
+        "name":  "Shadowrun: Dragonfall - Director\u0027s Cut",
+        "installdir":  "Shadowrun Dragonfall Director\u0027s Cut"
+    },
+    {
+        "appid":  "300570",
+        "name":  "Infinifactory",
+        "installdir":  "Infinifactory"
+    },
+    {
+        "appid":  "301560",
+        "name":  "White Night",
+        "installdir":  "White Night"
+    },
+    {
+        "appid":  "301970",
+        "name":  "Screencheat",
+        "installdir":  "Screencheat"
+    },
+    {
+        "appid":  "302310",
+        "name":  "Dungeon of Elements",
+        "installdir":  "Dungeon of Elements"
+    },
+    {
+        "appid":  "302510",
+        "name":  "Ryse: Son of Rome",
+        "installdir":  "Ryse Son of Rome"
+    },
+    {
+        "appid":  "302650",
+        "name":  "Cyto",
+        "installdir":  "Cyto"
+    },
+    {
+        "appid":  "302710",
+        "name":  "BlazeRush",
+        "installdir":  "Blaze Rush"
+    },
+    {
+        "appid":  "302870",
+        "name":  "Stained",
+        "installdir":  "StainedGame"
+    },
+    {
+        "appid":  "303210",
+        "name":  "The Beginner\u0027s Guide",
+        "installdir":  "The Beginners Guide"
+    },
+    {
+        "appid":  "303260",
+        "name":  "TRISTOY",
+        "installdir":  "Tristoy"
+    },
+    {
+        "appid":  "303510",
+        "name":  "Dungeons: The Eye of Draconus",
+        "installdir":  "Dungeons The Eye Of Draconus"
+    },
+    {
+        "appid":  "303690",
+        "name":  "FATE: The Cursed King",
+        "installdir":  "FATE The Cursed King"
+    },
+    {
+        "appid":  "303800",
+        "name":  "The Witcher Adventure Game",
+        "installdir":  "The Witcher Adventure Game"
+    },
+    {
+        "appid":  "304430",
+        "name":  "INSIDE",
+        "installdir":  "INSIDE"
+    },
+    {
+        "appid":  "304460",
+        "name":  "Qora",
+        "installdir":  "Qora"
+    },
+    {
+        "appid":  "304650",
+        "name":  "Sunless Sea",
+        "installdir":  "SunlessSea"
+    },
+    {
+        "appid":  "305050",
+        "name":  "Outland",
+        "installdir":  "Outland"
+    },
+    {
+        "appid":  "305620",
+        "name":  "The Long Dark",
+        "installdir":  "TheLongDark"
+    },
+    {
+        "appid":  "305920",
+        "name":  "Another Perspective",
+        "installdir":  "AnotherPerspective"
+    },
+    {
+        "appid":  "306440",
+        "name":  "Oblitus",
+        "installdir":  "Oblitus"
+    },
+    {
+        "appid":  "306700",
+        "name":  "Iron Fisticle",
+        "installdir":  "Iron Fisticle"
+    },
+    {
+        "appid":  "307030",
+        "name":  "Fractured Soul",
+        "installdir":  "Fractured Soul"
+    },
+    {
+        "appid":  "307620",
+        "name":  "Curses \u0027N Chaos",
+        "installdir":  "CursesNChaos"
+    },
+    {
+        "appid":  "307670",
+        "name":  "Hard West",
+        "installdir":  "HardWest"
+    },
+    {
+        "appid":  "307880",
+        "name":  "Savage Lands",
+        "installdir":  "Savage Lands"
+    },
+    {
+        "appid":  "308270",
+        "name":  "Buzz Aldrin\u0027s Space Program Manager",
+        "installdir":  "Buzz Aldrin\u0027s Space Program Manager"
+    },
+    {
+        "appid":  "308420",
+        "name":  "Ziggurat",
+        "installdir":  "Ziggurat"
+    },
+    {
+        "appid":  "308580",
+        "name":  "Orborun",
+        "installdir":  "Orborun"
+    },
+    {
+        "appid":  "310070",
+        "name":  "The Nightmare Cooperative",
+        "installdir":  "The Nightmare Cooperative"
+    },
+    {
+        "appid":  "310510",
+        "name":  "Deathtrap",
+        "installdir":  "Deathtrap"
+    },
+    {
+        "appid":  "310700",
+        "name":  "Super Win the Game",
+        "installdir":  "Super Win the Game"
+    },
+    {
+        "appid":  "310830",
+        "name":  "Retrobooster",
+        "installdir":  "Retrobooster"
+    },
+    {
+        "appid":  "310850",
+        "name":  "Onikira: Demon Killer",
+        "installdir":  "Onikira-DemonKiller"
+    },
+    {
+        "appid":  "311480",
+        "name":  "Vertical Drop Heroes HD",
+        "installdir":  "Vertical Drop Heroes HD"
+    },
+    {
+        "appid":  "311720",
+        "name":  "Sproggiwood",
+        "installdir":  "Sproggiwood"
+    },
+    {
+        "appid":  "311910",
+        "name":  "DIG IT! - A Digger Simulator",
+        "installdir":  "DIG IT! - A Digger Simulator"
+    },
+    {
+        "appid":  "312230",
+        "name":  "Spirits of Xanadu",
+        "installdir":  "Spirits of Xanadu"
+    },
+    {
+        "appid":  "312520",
+        "name":  "Rain World",
+        "installdir":  "Rain World"
+    },
+    {
+        "appid":  "312530",
+        "name":  "Duck Game",
+        "installdir":  "Duck Game"
+    },
+    {
+        "appid":  "313080",
+        "name":  "The Masterplan",
+        "installdir":  "The Masterplan"
+    },
+    {
+        "appid":  "313130",
+        "name":  "Metrocide",
+        "installdir":  "Metrocide"
+    },
+    {
+        "appid":  "313480",
+        "name":  "Blitzkrieg Anthology",
+        "installdir":  "Blitzkrieg Anthology"
+    },
+    {
+        "appid":  "313980",
+        "name":  "Proxy Blade Zero",
+        "installdir":  "Proxy Blade Zero"
+    },
+    {
+        "appid":  "314120",
+        "name":  "Frayed Knights: The Skull of S\u0027makh-Daon",
+        "installdir":  "Frayed Knights The Skull of S\u0027makh-Daon"
+    },
+    {
+        "appid":  "314150",
+        "name":  "Double Dragon Trilogy",
+        "installdir":  "Double Dragon Trilogy"
+    },
+    {
+        "appid":  "314460",
+        "name":  "Jamsouls",
+        "installdir":  "Jamsouls"
+    },
+    {
+        "appid":  "314470",
+        "name":  "Heroes of a Broken Land",
+        "installdir":  "Heroes of a Broken Land"
+    },
+    {
+        "appid":  "314570",
+        "name":  "The Sun at Night",
+        "installdir":  "The Sun at Night"
+    },
+    {
+        "appid":  "315080",
+        "name":  "Foresight",
+        "installdir":  "Foresight"
+    },
+    {
+        "appid":  "315130",
+        "name":  "CO-OP : Decrypted",
+        "installdir":  "CO-OP Decrypted"
+    },
+    {
+        "appid":  "315430",
+        "name":  "Polarity",
+        "installdir":  "Polarity"
+    },
+    {
+        "appid":  "315540",
+        "name":  "The Joylancer: Legendary Motor Knight",
+        "installdir":  "Joylancer"
+    },
+    {
+        "appid":  "315830",
+        "name":  "Daedalus - No Escape",
+        "installdir":  "Daedalus - no escape"
+    },
+    {
+        "appid":  "316010",
+        "name":  "Magic Duels",
+        "installdir":  "Magic Duels"
+    },
+    {
+        "appid":  "316080",
+        "name":  "Parcel",
+        "installdir":  "Parcel"
+    },
+    {
+        "appid":  "316180",
+        "name":  "A City Sleeps",
+        "installdir":  "A City Sleeps"
+    },
+    {
+        "appid":  "316260",
+        "name":  "Disney Universe",
+        "installdir":  "Disney Universe"
+    },
+    {
+        "appid":  "316480",
+        "name":  "Shadow Puppeteer",
+        "installdir":  "Shadow Puppeteer"
+    },
+    {
+        "appid":  "316740",
+        "name":  "Biglands: A Game Made By Kids",
+        "installdir":  "Biglands"
+    },
+    {
+        "appid":  "316970",
+        "name":  "The Waste Land",
+        "installdir":  "The Waste Land"
+    },
+    {
+        "appid":  "317040",
+        "name":  "Strife: Veteran Edition",
+        "installdir":  "Strife"
+    },
+    {
+        "appid":  "317250",
+        "name":  "Airscape: The Fall of Gravity",
+        "installdir":  "Airscape"
+    },
+    {
+        "appid":  "317370",
+        "name":  "The Keep",
+        "installdir":  "The Keep"
+    },
+    {
+        "appid":  "318220",
+        "name":  "Enforcer: Police Crime Action",
+        "installdir":  "Enforcer"
+    },
+    {
+        "appid":  "318230",
+        "name":  "Convoy",
+        "installdir":  "Convoy"
+    },
+    {
+        "appid":  "318480",
+        "name":  "Burnstar",
+        "installdir":  "Burnstar"
+    },
+    {
+        "appid":  "318600",
+        "name":  "The Flame in the Flood",
+        "installdir":  "FlameInTheFlood"
+    },
+    {
+        "appid":  "318970",
+        "name":  "StarCrawlers",
+        "installdir":  "StarCrawlers"
+    },
+    {
+        "appid":  "319050",
+        "name":  "Chaos Reborn",
+        "installdir":  "ChaosReborn"
+    },
+    {
+        "appid":  "319140",
+        "name":  "Xeodrifter™",
+        "installdir":  "Xeodrifter"
+    },
+    {
+        "appid":  "319450",
+        "name":  "Chariot",
+        "installdir":  "Chariot"
+    },
+    {
+        "appid":  "319480",
+        "name":  "Odallus: The Dark Call",
+        "installdir":  "Odallus"
+    },
+    {
+        "appid":  "319850",
+        "name":  "Bridge Constructor Medieval",
+        "installdir":  "Bridge Constructor Medieval"
+    },
+    {
+        "appid":  "319910",
+        "name":  "Trine 3: The Artifacts of Power",
+        "installdir":  "Trine 3"
+    },
+    {
+        "appid":  "320040",
+        "name":  "Moon Hunters",
+        "installdir":  "Moon Hunters"
+    },
+    {
+        "appid":  "320140",
+        "name":  "Absolute Drift",
+        "installdir":  "Absolute Drift"
+    },
+    {
+        "appid":  "320300",
+        "name":  "Car Mechanic Simulator 2015",
+        "installdir":  "Car Mechanic Simulator 2015"
+    },
+    {
+        "appid":  "320340",
+        "name":  "Cosmonautica",
+        "installdir":  "Cosmonautica"
+    },
+    {
+        "appid":  "320820",
+        "name":  "Toren",
+        "installdir":  "Toren"
+    },
+    {
+        "appid":  "320840",
+        "name":  "Wings! Remastered Edition",
+        "installdir":  "Wings! Remastered Edition"
+    },
+    {
+        "appid":  "321040",
+        "name":  "DiRT 3 Complete Edition",
+        "installdir":  "DiRT 3 Complete Edition"
+    },
+    {
+        "appid":  "321270",
+        "name":  "UNLOVED",
+        "installdir":  "UNLOVED"
+    },
+    {
+        "appid":  "321330",
+        "name":  "ENYO ARCADE",
+        "installdir":  "ENYO ARCADE"
+    },
+    {
+        "appid":  "321560",
+        "name":  "The Sun and Moon",
+        "installdir":  "TheSunAndMoon"
+    },
+    {
+        "appid":  "321920",
+        "name":  "Schein",
+        "installdir":  "Schein"
+    },
+    {
+        "appid":  "3220",
+        "name":  "SpaceForce: Rogue Universe",
+        "installdir":  "SpaceForce Rogue Universe"
+    },
+    {
+        "appid":  "322040",
+        "name":  "Cooking Academy Fire and Knives",
+        "installdir":  "Cooking Academy Collection"
+    },
+    {
+        "appid":  "322190",
+        "name":  "SteamWorld Heist",
+        "installdir":  "SteamWorld Heist"
+    },
+    {
+        "appid":  "322500",
+        "name":  "SUPERHOT",
+        "installdir":  "SUPERHOT"
+    },
+    {
+        "appid":  "322920",
+        "name":  "theHunter: Primal",
+        "installdir":  "theHunterPrimal"
+    },
+    {
+        "appid":  "323060",
+        "name":  "Tharsis",
+        "installdir":  "Tharsis"
+    },
+    {
+        "appid":  "323320",
+        "name":  "Grow Home",
+        "installdir":  "GrowHome"
+    },
+    {
+        "appid":  "32350",
+        "name":  "STAR WARS™ Starfighter™",
+        "installdir":  "Star Wars Starfighter"
+    },
+    {
+        "appid":  "323580",
+        "name":  "Jotun",
+        "installdir":  "Jotun"
+    },
+    {
+        "appid":  "32370",
+        "name":  "STAR WARS™: Knights of the Old Republic™",
+        "installdir":  "swkotor"
+    },
+    {
+        "appid":  "323850",
+        "name":  "Move or Die",
+        "installdir":  "Move or Die"
+    },
+    {
+        "appid":  "32400",
+        "name":  "STAR WARS™: Dark Forces",
+        "installdir":  "Dark Forces"
+    },
+    {
+        "appid":  "324070",
+        "name":  "iO",
+        "installdir":  "iO"
+    },
+    {
+        "appid":  "324080",
+        "name":  "Rising World",
+        "installdir":  "RisingWorld"
+    },
+    {
+        "appid":  "32430",
+        "name":  "STAR WARS™: The Force Unleashed™ Ultimate Sith Edition",
+        "installdir":  "Star Wars The Force Unleashed"
+    },
+    {
+        "appid":  "32440",
+        "name":  "LEGO® Star Wars™: The Complete Saga",
+        "installdir":  "Lego Star Wars Saga"
+    },
+    {
+        "appid":  "324650",
+        "name":  "Gemini: Heroes Reborn",
+        "installdir":  "GeminiHeroesReborn"
+    },
+    {
+        "appid":  "324750",
+        "name":  "StuntMANIA Reloaded",
+        "installdir":  "StuntMANIA Reloaded"
+    },
+    {
+        "appid":  "325210",
+        "name":  "Eternal Winter",
+        "installdir":  "Eternal Winter"
+    },
+    {
+        "appid":  "325370",
+        "name":  "Nova-111",
+        "installdir":  "Nova-111"
+    },
+    {
+        "appid":  "325420",
+        "name":  "Homebrew - Vehicle Sandbox",
+        "installdir":  "Homebrew - Vehicle Sandbox"
+    },
+    {
+        "appid":  "326410",
+        "name":  "Windward",
+        "installdir":  "Windward"
+    },
+    {
+        "appid":  "327090",
+        "name":  "Out of Reach",
+        "installdir":  "Out of Reach"
+    },
+    {
+        "appid":  "327210",
+        "name":  "Cheesecake Cool Conrad",
+        "installdir":  "Cheesecake Cool Conrad"
+    },
+    {
+        "appid":  "327260",
+        "name":  "Life of Pixel",
+        "installdir":  "Life of Pixel"
+    },
+    {
+        "appid":  "327310",
+        "name":  "The Marvellous Miss Take",
+        "installdir":  "The Marvellous Miss Take"
+    },
+    {
+        "appid":  "327880",
+        "name":  "Sublevel Zero",
+        "installdir":  "Sublevel Zero"
+    },
+    {
+        "appid":  "327890",
+        "name":  "I am Bread",
+        "installdir":  "iambread"
+    },
+    {
+        "appid":  "32800",
+        "name":  "The Lord of the Rings: War in the North",
+        "installdir":  "War in the North"
+    },
+    {
+        "appid":  "329380",
+        "name":  "Stealth Inc 2",
+        "installdir":  "Stealth Inc 2"
+    },
+    {
+        "appid":  "329460",
+        "name":  "JumpJet Rex",
+        "installdir":  "JumpJetRex"
+    },
+    {
+        "appid":  "330180",
+        "name":  "Pix the Cat",
+        "installdir":  "Pix the Cat"
+    },
+    {
+        "appid":  "330270",
+        "name":  "Warlocks vs Shadows",
+        "installdir":  "Warlocks"
+    },
+    {
+        "appid":  "331340",
+        "name":  "Tulpa",
+        "installdir":  "Tulpa"
+    },
+    {
+        "appid":  "331650",
+        "name":  "Carmageddon TDR 2000",
+        "installdir":  "Carmageddon TDR 2000"
+    },
+    {
+        "appid":  "331670",
+        "name":  "The Jackbox Party Pack",
+        "installdir":  "The Jackbox Party Pack"
+    },
+    {
+        "appid":  "332250",
+        "name":  "The Next Penelope",
+        "installdir":  "The Next Penelope"
+    },
+    {
+        "appid":  "332310",
+        "name":  "LEGO® Worlds",
+        "installdir":  "LEGO Worlds"
+    },
+    {
+        "appid":  "332500",
+        "name":  "GRAV",
+        "installdir":  "GRAV"
+    },
+    {
+        "appid":  "33260",
+        "name":  "Heroes Over Europe",
+        "installdir":  "Heroes Over Europe"
+    },
+    {
+        "appid":  "332610",
+        "name":  "Mystik Belle",
+        "installdir":  "Mystik_Belle"
+    },
+    {
+        "appid":  "332620",
+        "name":  "PONCHO",
+        "installdir":  "Poncho"
+    },
+    {
+        "appid":  "333950",
+        "name":  "Medieval Engineers",
+        "installdir":  "MedievalEngineers"
+    },
+    {
+        "appid":  "334190",
+        "name":  "Insanity\u0027s Blade",
+        "installdir":  "Insanitys Blade"
+    },
+    {
+        "appid":  "335560",
+        "name":  "Light Bound",
+        "installdir":  "Light Bound"
+    },
+    {
+        "appid":  "336090",
+        "name":  "Sky Mercenaries",
+        "installdir":  "Sky Mercenaries"
+    },
+    {
+        "appid":  "336200",
+        "name":  "Starlaxis Supernova Edition",
+        "installdir":  "Starlaxis"
+    },
+    {
+        "appid":  "336240",
+        "name":  "Typoman",
+        "installdir":  "Typoman"
+    },
+    {
+        "appid":  "336610",
+        "name":  "Outcast 1.1",
+        "installdir":  "Outcast 1.1"
+    },
+    {
+        "appid":  "337040",
+        "name":  "Deadnaut",
+        "installdir":  "Deadnaut"
+    },
+    {
+        "appid":  "337150",
+        "name":  "Sentinels of the Multiverse",
+        "installdir":  "Sentinels of the Multiverse"
+    },
+    {
+        "appid":  "337960",
+        "name":  "ClusterPuck 99",
+        "installdir":  "ClusterPuck 99"
+    },
+    {
+        "appid":  "338110",
+        "name":  "Khaba",
+        "installdir":  "Khaba"
+    },
+    {
+        "appid":  "338190",
+        "name":  "Just Get Through",
+        "installdir":  "Just Get Through"
+    },
+    {
+        "appid":  "339200",
+        "name":  "Oceanhorn: Monster of Uncharted Seas",
+        "installdir":  "Oceanhorn"
+    },
+    {
+        "appid":  "339280",
+        "name":  "Strife",
+        "installdir":  "Strife"
+    },
+    {
+        "appid":  "339440",
+        "name":  "Critical Annihilation",
+        "installdir":  "Critical Annihilation"
+    },
+    {
+        "appid":  "339460",
+        "name":  "A Pixel Story",
+        "installdir":  "A Pixel Story"
+    },
+    {
+        "appid":  "339570",
+        "name":  "Enemy",
+        "installdir":  "Enemy"
+    },
+    {
+        "appid":  "340000",
+        "name":  "Headlander",
+        "installdir":  "Headlander"
+    },
+    {
+        "appid":  "34010",
+        "name":  "Alpha Protocol",
+        "installdir":  "Alpha Protocol"
+    },
+    {
+        "appid":  "340200",
+        "name":  "Bloop",
+        "installdir":  "Bloop"
+    },
+    {
+        "appid":  "340270",
+        "name":  "TIMEframe",
+        "installdir":  "TIMEframe"
+    },
+    {
+        "appid":  "340450",
+        "name":  "Crashed Lander",
+        "installdir":  "Crashed Lander"
+    },
+    {
+        "appid":  "340490",
+        "name":  "Subterrain",
+        "installdir":  "Subterrain"
+    },
+    {
+        "appid":  "340520",
+        "name":  "Tallowmere",
+        "installdir":  "Tallowmere"
+    },
+    {
+        "appid":  "341390",
+        "name":  "Vulture for NetHack",
+        "installdir":  "Vulture for NetHack"
+    },
+    {
+        "appid":  "341500",
+        "name":  "Camera Obscura",
+        "installdir":  "Camera Obscura"
+    },
+    {
+        "appid":  "341550",
+        "name":  "Super Cyborg",
+        "installdir":  "Super Cyborg"
+    },
+    {
+        "appid":  "341680",
+        "name":  "stratO",
+        "installdir":  "stratO"
+    },
+    {
+        "appid":  "341730",
+        "name":  "Dustoff Heli Rescue",
+        "installdir":  "Dustoff Heli Rescue"
+    },
+    {
+        "appid":  "341800",
+        "name":  "Keep Talking and Nobody Explodes",
+        "installdir":  "Keep Talking and Nobody Explodes"
+    },
+    {
+        "appid":  "341870",
+        "name":  "Tembo The Badass Elephant",
+        "installdir":  "Tembo The Badass Elephant"
+    },
+    {
+        "appid":  "34190",
+        "name":  "Sonic and SEGA All Stars Racing",
+        "installdir":  "Sonic and SEGA All Stars Racing"
+    },
+    {
+        "appid":  "341980",
+        "name":  "Dispatcher",
+        "installdir":  "Dispatcher"
+    },
+    {
+        "appid":  "342620",
+        "name":  "It came from space, and ate our brains",
+        "installdir":  "FromSpace"
+    },
+    {
+        "appid":  "34270",
+        "name":  "SEGA Mega Drive \u0026 Genesis Classics",
+        "installdir":  "Sega Classics"
+    },
+    {
+        "appid":  "343100",
+        "name":  "Overture",
+        "installdir":  "Overture"
+    },
+    {
+        "appid":  "343440",
+        "name":  "Crash Drive 2",
+        "installdir":  "Crash Drive 2"
+    },
+    {
+        "appid":  "343710",
+        "name":  "KHOLAT",
+        "installdir":  "KHOLAT"
+    },
+    {
+        "appid":  "344220",
+        "name":  "Janky Tanks",
+        "installdir":  "Janky Tanks"
+    },
+    {
+        "appid":  "344410",
+        "name":  "Magnetic: Cage Closed",
+        "installdir":  "Magnetic Cage Closed"
+    },
+    {
+        "appid":  "344740",
+        "name":  "CRYPTARK",
+        "installdir":  "Cryptark"
+    },
+    {
+        "appid":  "345030",
+        "name":  "3d Engineers",
+        "installdir":  "3d Engineers"
+    },
+    {
+        "appid":  "345180",
+        "name":  "Victor Vran",
+        "installdir":  "Victor Vran"
+    },
+    {
+        "appid":  "345790",
+        "name":  "Bridge Creator 2015",
+        "installdir":  "Bridge Creator 2015"
+    },
+    {
+        "appid":  "345820",
+        "name":  "Shantae and the Pirate\u0027s Curse",
+        "installdir":  "Shantae and the Pirate\u0027s Curse"
+    },
+    {
+        "appid":  "345990",
+        "name":  "ABRACA - Imagic Games",
+        "installdir":  "Abraca"
+    },
+    {
+        "appid":  "346010",
+        "name":  "Besiege",
+        "installdir":  "Besiege"
+    },
+    {
+        "appid":  "346090",
+        "name":  "I Can\u0027t Escape: Darkness",
+        "installdir":  "I Can\u0027t Escape Darkness"
+    },
+    {
+        "appid":  "346110",
+        "name":  "ARK: Survival Evolved",
+        "installdir":  "ARK"
+    },
+    {
+        "appid":  "346180",
+        "name":  "David.",
+        "installdir":  "David"
+    },
+    {
+        "appid":  "346300",
+        "name":  "Containment Protocol",
+        "installdir":  "Containment Protocol"
+    },
+    {
+        "appid":  "346770",
+        "name":  "Quarries of Scred",
+        "installdir":  "Quarries of Scred"
+    },
+    {
+        "appid":  "347160",
+        "name":  "Steredenn",
+        "installdir":  "Steredenn"
+    },
+    {
+        "appid":  "347330",
+        "name":  "HeartZ: Co-Hope Puzzles",
+        "installdir":  "HeartZ"
+    },
+    {
+        "appid":  "34870",
+        "name":  "Sniper Ghost Warrior 2",
+        "installdir":  "Sniper Ghost Warrior"
+    },
+    {
+        "appid":  "348730",
+        "name":  "Abyss Raiders: Uncharted",
+        "installdir":  "Abyss Uncharted"
+    },
+    {
+        "appid":  "348790",
+        "name":  "Wooden Floor",
+        "installdir":  "Wooden Floor"
+    },
+    {
+        "appid":  "350070",
+        "name":  "Environmental Station Alpha",
+        "installdir":  "Environmental Station Alpha"
+    },
+    {
+        "appid":  "350080",
+        "name":  "Wolfenstein: The Old Blood ",
+        "installdir":  "Wolfenstein The Old Blood"
+    },
+    {
+        "appid":  "350620",
+        "name":  "Sandmason",
+        "installdir":  "Sandmason"
+    },
+    {
+        "appid":  "350740",
+        "name":  "The Bug Butcher",
+        "installdir":  "TheBugButcher"
+    },
+    {
+        "appid":  "351250",
+        "name":  "Avalanche 2: Super Avalanche",
+        "installdir":  "Avalanche 2 Super Avalanche"
+    },
+    {
+        "appid":  "35130",
+        "name":  "Lara Croft and the Guardian of Light",
+        "installdir":  "Lara Croft and the Guardian of Light"
+    },
+    {
+        "appid":  "35140",
+        "name":  "Batman: Arkham Asylum GOTY Edition",
+        "installdir":  "Batman Arkham Asylum GOTY"
+    },
+    {
+        "appid":  "351990",
+        "name":  "Riff Racer",
+        "installdir":  "Riff Racer"
+    },
+    {
+        "appid":  "352190",
+        "name":  "Spirit Of War",
+        "installdir":  "Spirit Of War"
+    },
+    {
+        "appid":  "352430",
+        "name":  "Farlight Explorers",
+        "installdir":  "Farlight Explorers"
+    },
+    {
+        "appid":  "352640",
+        "name":  "The Indie Mixtape",
+        "installdir":  "The Indie Mixtape"
+    },
+    {
+        "appid":  "35320",
+        "name":  "Insane 2",
+        "installdir":  "Insane2"
+    },
+    {
+        "appid":  "353700",
+        "name":  "The Deadly Tower of Monsters",
+        "installdir":  "the_deadly_tower_of_monsters"
+    },
+    {
+        "appid":  "353940",
+        "name":  "Aces of the Luftwaffe",
+        "installdir":  "AOTL"
+    },
+    {
+        "appid":  "355050",
+        "name":  "Sky Force Anniversary",
+        "installdir":  "Sky Force Anniversary"
+    },
+    {
+        "appid":  "355630",
+        "name":  "Leo\u0027s Fortune",
+        "installdir":  "Leo’s Fortune"
+    },
+    {
+        "appid":  "355800",
+        "name":  "Space Run Galaxy",
+        "installdir":  "Space Run Galaxy"
+    },
+    {
+        "appid":  "355980",
+        "name":  "Dungeon Warfare",
+        "installdir":  "Dungeon Warfare"
+    },
+    {
+        "appid":  "356040",
+        "name":  "Sheltered",
+        "installdir":  "Sheltered"
+    },
+    {
+        "appid":  "356170",
+        "name":  "Tile Rider",
+        "installdir":  "Tile Rider"
+    },
+    {
+        "appid":  "356570",
+        "name":  "Party Hard",
+        "installdir":  "Party Hard"
+    },
+    {
+        "appid":  "356580",
+        "name":  "Aerannis",
+        "installdir":  "Aerannis"
+    },
+    {
+        "appid":  "356890",
+        "name":  "One More Line",
+        "installdir":  "One More Line"
+    },
+    {
+        "appid":  "35700",
+        "name":  "Trine",
+        "installdir":  "Trine"
+    },
+    {
+        "appid":  "357030",
+        "name":  "Excubitor",
+        "installdir":  "Excubitor"
+    },
+    {
+        "appid":  "35720",
+        "name":  "Trine 2",
+        "installdir":  "Trine 2"
+    },
+    {
+        "appid":  "357300",
+        "name":  "Snakebird",
+        "installdir":  "Snakebird"
+    },
+    {
+        "appid":  "357330",
+        "name":  "Space Beast Terror Fright",
+        "installdir":  "Space Beast Terror Fright"
+    },
+    {
+        "appid":  "357670",
+        "name":  "Home Improvisation: Furniture Sandbox",
+        "installdir":  "Home Improvisation"
+    },
+    {
+        "appid":  "357830",
+        "name":  "Attack of the Labyrinth +",
+        "installdir":  "Attack of the Labyrinth"
+    },
+    {
+        "appid":  "358280",
+        "name":  "Alien Carnage / Halloween Harry",
+        "installdir":  {
+                           "LastUpdated":  "1497673980",
+                           "UpdateResult":  "0",
+                           "SizeOnDisk":  "890774196",
+                           "buildid":  "881927",
+                           "LastOwner":  "76561197970761367",
+                           "BytesToDownload":  "868863008",
+                           "BytesDownloaded":  "868863008",
+                           "AutoUpdateBehavior":  "0",
+                           "AllowOtherDownloadsWhileRunning":  "0"
+                       }
+    },
+    {
+        "appid":  "358960",
+        "name":  "Canabalt",
+        "installdir":  "Canabalt"
+    },
+    {
+        "appid":  "359040",
+        "name":  "The Music Machine",
+        "installdir":  "The Music Machine"
+    },
+    {
+        "appid":  "359140",
+        "name":  "Kick Ass Commandos",
+        "installdir":  "Kick Ass Commandos"
+    },
+    {
+        "appid":  "359350",
+        "name":  "Defunct",
+        "installdir":  "Defunct"
+    },
+    {
+        "appid":  "359580",
+        "name":  "Uncanny Valley",
+        "installdir":  "Uncanny Valley"
+    },
+    {
+        "appid":  "360750",
+        "name":  "StarFence: Heroic Edition",
+        "installdir":  "StarFence"
+    },
+    {
+        "appid":  "360950",
+        "name":  "Descent: Underground",
+        "installdir":  "Descent Underground"
+    },
+    {
+        "appid":  "361280",
+        "name":  "Turmoil",
+        "installdir":  "Turmoil"
+    },
+    {
+        "appid":  "361300",
+        "name":  "Mother Russia Bleeds",
+        "installdir":  "Mother Russia Bleeds"
+    },
+    {
+        "appid":  "361420",
+        "name":  "ASTRONEER",
+        "installdir":  "ASTRONEER Early Access"
+    },
+    {
+        "appid":  "361990",
+        "name":  "Lakeview Cabin Collection",
+        "installdir":  "Lakeview Cabin Collection"
+    },
+    {
+        "appid":  "362290",
+        "name":  "The Living Dungeon",
+        "installdir":  "The Living Dungeon"
+    },
+    {
+        "appid":  "362310",
+        "name":  "Dungeon League",
+        "installdir":  "Dungeon League"
+    },
+    {
+        "appid":  "362490",
+        "name":  "Exanima",
+        "installdir":  "Exanima"
+    },
+    {
+        "appid":  "362830",
+        "name":  "3D Mini Golf",
+        "installdir":  "3D Mini Golf"
+    },
+    {
+        "appid":  "362860",
+        "name":  "Sylvio",
+        "installdir":  "Sylvio"
+    },
+    {
+        "appid":  "362890",
+        "name":  "Black Mesa",
+        "installdir":  "Black Mesa"
+    },
+    {
+        "appid":  "363240",
+        "name":  "Caveman Craig",
+        "installdir":  "cavemancraig"
+    },
+    {
+        "appid":  "363520",
+        "name":  "Goliath",
+        "installdir":  "Goliath"
+    },
+    {
+        "appid":  "363600",
+        "name":  "Holy Potatoes! A Weapon Shop?!",
+        "installdir":  "Holy Potatoes! A Weapon Shop!"
+    },
+    {
+        "appid":  "363670",
+        "name":  "Seeders",
+        "installdir":  "Seeders"
+    },
+    {
+        "appid":  "364770",
+        "name":  "Super Furball",
+        "installdir":  "Super Furball"
+    },
+    {
+        "appid":  "365120",
+        "name":  "Curse of the Crescent Isle DX",
+        "installdir":  "Curse of the Crescent Isle DX"
+    },
+    {
+        "appid":  "365320",
+        "name":  "Quadrant",
+        "installdir":  "Quadrant"
+    },
+    {
+        "appid":  "365770",
+        "name":  "Volume",
+        "installdir":  "Volume"
+    },
+    {
+        "appid":  "365810",
+        "name":  "Flying Tigers: Shadows Over China",
+        "installdir":  "Flying Tigers Shadows Over China"
+    },
+    {
+        "appid":  "365870",
+        "name":  "Below Kryll",
+        "installdir":  "Below Kryll"
+    },
+    {
+        "appid":  "366510",
+        "name":  "Ruzar - The Life Stone",
+        "installdir":  "Ruzar - The Life Stone"
+    },
+    {
+        "appid":  "367030",
+        "name":  "Lootfest",
+        "installdir":  "Lootfest"
+    },
+    {
+        "appid":  "367450",
+        "name":  "Poly Bridge",
+        "installdir":  "Poly Bridge"
+    },
+    {
+        "appid":  "367500",
+        "name":  "Dragon\u0027s Dogma: Dark Arisen",
+        "installdir":  "DDDA"
+    },
+    {
+        "appid":  "367580",
+        "name":  "Hook",
+        "installdir":  "Hook"
+    },
+    {
+        "appid":  "368180",
+        "name":  "Polyball",
+        "installdir":  "Polyball"
+    },
+    {
+        "appid":  "368590",
+        "name":  "Albert and Otto: The Adventure Begins",
+        "installdir":  "AlbertandOtto"
+    },
+    {
+        "appid":  "368730",
+        "name":  "No Time To Explain Remastered",
+        "installdir":  "No Time To Explain Remastered"
+    },
+    {
+        "appid":  "368740",
+        "name":  "Obliteracers",
+        "installdir":  "Obliteracers"
+    },
+    {
+        "appid":  "369270",
+        "name":  "Megatect",
+        "installdir":  "Megatect"
+    },
+    {
+        "appid":  "370390",
+        "name":  "Path to the Sky",
+        "installdir":  "Path to the Sky"
+    },
+    {
+        "appid":  "370590",
+        "name":  "Gem Wars: Attack of the Jiblets",
+        "installdir":  "Gem Wars Attack of the Jiblets"
+    },
+    {
+        "appid":  "37100",
+        "name":  "Aztaka",
+        "installdir":  "Aztaka"
+    },
+    {
+        "appid":  "371450",
+        "name":  "Awe",
+        "installdir":  "Awe"
+    },
+    {
+        "appid":  "371510",
+        "name":  "Gunnheim",
+        "installdir":  "Gunnheim"
+    },
+    {
+        "appid":  "371670",
+        "name":  "Rolling Sun",
+        "installdir":  "Rolling Sun"
+    },
+    {
+        "appid":  "371970",
+        "name":  "Barony",
+        "installdir":  "Barony"
+    },
+    {
+        "appid":  "372490",
+        "name":  "GROOVY",
+        "installdir":  "Groovy"
+    },
+    {
+        "appid":  "372720",
+        "name":  "The Language Game",
+        "installdir":  "The Language Game"
+    },
+    {
+        "appid":  "373480",
+        "name":  "1993 Space Machine",
+        "installdir":  "1993 Space Machine"
+    },
+    {
+        "appid":  "373750",
+        "name":  "DinoSystem",
+        "installdir":  "DinoSystem"
+    },
+    {
+        "appid":  "373990",
+        "name":  "Metrico+",
+        "installdir":  "Metrico+"
+    },
+    {
+        "appid":  "374090",
+        "name":  "Winter Sports Trilogy Super Pack",
+        "installdir":  "Wintergames"
+    },
+    {
+        "appid":  "374950",
+        "name":  "ADventure Lib",
+        "installdir":  "ADventure Lib"
+    },
+    {
+        "appid":  "375170",
+        "name":  "Gunpowder",
+        "installdir":  "Gunpowder"
+    },
+    {
+        "appid":  "375400",
+        "name":  "ICY",
+        "installdir":  "ICY"
+    },
+    {
+        "appid":  "375500",
+        "name":  "The Deep Paths: Labyrinth Of Andokost",
+        "installdir":  "The Deep Paths Labyrinth Of Andokost"
+    },
+    {
+        "appid":  "375580",
+        "name":  "Three Days",
+        "installdir":  "Three Days"
+    },
+    {
+        "appid":  "375820",
+        "name":  "Human Resource Machine",
+        "installdir":  "Human Resource Machine"
+    },
+    {
+        "appid":  "376880",
+        "name":  "ASTROKILL",
+        "installdir":  "AstroKill"
+    },
+    {
+        "appid":  "377020",
+        "name":  "The Magic Circle Demo",
+        "installdir":  "The Magic Circle Demo"
+    },
+    {
+        "appid":  "377360",
+        "name":  "Western Press",
+        "installdir":  "Western Press"
+    },
+    {
+        "appid":  "378370",
+        "name":  "Nomad",
+        "installdir":  "Nomad"
+    },
+    {
+        "appid":  "378810",
+        "name":  "Steamroll",
+        "installdir":  "Steamroll"
+    },
+    {
+        "appid":  "379720",
+        "name":  "DOOM",
+        "installdir":  "DOOM"
+    },
+    {
+        "appid":  "380540",
+        "name":  "Inevitability",
+        "installdir":  "Inevitability"
+    },
+    {
+        "appid":  "381120",
+        "name":  "Shoppe Keep",
+        "installdir":  "Shoppe Keep"
+    },
+    {
+        "appid":  "381880",
+        "name":  "Red Rope: Don\u0027t Fall Behind",
+        "installdir":  "Red Rope - Don\u0027t Fall Behind"
+    },
+    {
+        "appid":  "382050",
+        "name":  "Eon Altar",
+        "installdir":  "Eon Altar"
+    },
+    {
+        "appid":  "382490",
+        "name":  "Relic Hunters Zero",
+        "installdir":  "Relic Hunters Zero"
+    },
+    {
+        "appid":  "382570",
+        "name":  "Glass Wing",
+        "installdir":  "Glass Wing"
+    },
+    {
+        "appid":  "382920",
+        "name":  "RETSNOM",
+        "installdir":  "RETSNOM"
+    },
+    {
+        "appid":  "383120",
+        "name":  "Empyrion - Galactic Survival",
+        "installdir":  "Empyrion - Galactic Survival"
+    },
+    {
+        "appid":  "383720",
+        "name":  "Swords \u0026 Crossbones: An Epic Pirate Story",
+        "installdir":  "Swords and Crossbones"
+    },
+    {
+        "appid":  "384010",
+        "name":  "Castles",
+        "installdir":  "Castles"
+    },
+    {
+        "appid":  "384190",
+        "name":  "ABZÛ",
+        "installdir":  "ABZU"
+    },
+    {
+        "appid":  "384310",
+        "name":  "Dead In Bermuda",
+        "installdir":  "Dead In Bermuda"
+    },
+    {
+        "appid":  "384480",
+        "name":  "Six Sides of the World",
+        "installdir":  "SixSidesOfTheWorld"
+    },
+    {
+        "appid":  "385560",
+        "name":  "Shadow Complex Remastered",
+        "installdir":  "Shadow Complex Remastered"
+    },
+    {
+        "appid":  "385710",
+        "name":  "INK",
+        "installdir":  "INK"
+    },
+    {
+        "appid":  "386400",
+        "name":  "Foosball: World Tour",
+        "installdir":  "Foosball"
+    },
+    {
+        "appid":  "386700",
+        "name":  "The Oil Blue",
+        "installdir":  "The Oil Blue"
+    },
+    {
+        "appid":  "386750",
+        "name":  "Cashtronauts",
+        "installdir":  "Cashtronauts"
+    },
+    {
+        "appid":  "386940",
+        "name":  "Ultimate Chicken Horse",
+        "installdir":  "Ultimate Chicken Horse"
+    },
+    {
+        "appid":  "387060",
+        "name":  "Earth Overclocked",
+        "installdir":  "Earth Overclocked"
+    },
+    {
+        "appid":  "387240",
+        "name":  "Steel Rain",
+        "installdir":  "STEELRAIN"
+    },
+    {
+        "appid":  "387990",
+        "name":  "Scrap Mechanic",
+        "installdir":  "Scrap Mechanic"
+    },
+    {
+        "appid":  "388880",
+        "name":  "Oxenfree",
+        "installdir":  "Oxenfree"
+    },
+    {
+        "appid":  "389190",
+        "name":  "Goblins and Grottos",
+        "installdir":  "Goblins \u0026 Grottos"
+    },
+    {
+        "appid":  "389510",
+        "name":  "Wild Animal Racing",
+        "installdir":  "Wild Animal Racing"
+    },
+    {
+        "appid":  "389810",
+        "name":  "Rubber and Lead",
+        "installdir":  "Rubber and Lead"
+    },
+    {
+        "appid":  "390040",
+        "name":  "Small Radios Big Televisions",
+        "installdir":  "Small Radios Big Televisions"
+    },
+    {
+        "appid":  "390210",
+        "name":  "FreezeME",
+        "installdir":  "FreezeME"
+    },
+    {
+        "appid":  "390610",
+        "name":  "Circa Infinity",
+        "installdir":  "Circa Infinity"
+    },
+    {
+        "appid":  "390870",
+        "name":  "Circuit Breakers",
+        "installdir":  "Circuit Breakers"
+    },
+    {
+        "appid":  "390890",
+        "name":  "Angry Arrows",
+        "installdir":  "Angry Arrows"
+    },
+    {
+        "appid":  "391220",
+        "name":  "Rise of the Tomb Raider",
+        "installdir":  "Rise of the Tomb Raider"
+    },
+    {
+        "appid":  "39140",
+        "name":  "FINAL FANTASY VII",
+        "installdir":  "FINAL FANTASY VII"
+    },
+    {
+        "appid":  "39160",
+        "name":  "Dungeon Siege III",
+        "installdir":  "Dungeon Siege III"
+    },
+    {
+        "appid":  "391630",
+        "name":  "Necromonads",
+        "installdir":  "Necromonads"
+    },
+    {
+        "appid":  "391720",
+        "name":  "Layers of Fear",
+        "installdir":  "Layers of Fear"
+    },
+    {
+        "appid":  "39190",
+        "name":  "Dungeon Siege",
+        "installdir":  "Dungeon Siege 1"
+    },
+    {
+        "appid":  "392410",
+        "name":  "ToyOdyssey",
+        "installdir":  "ToyOdyssey"
+    },
+    {
+        "appid":  "393420",
+        "name":  "Hurtworld",
+        "installdir":  "Hurtworld"
+    },
+    {
+        "appid":  "394310",
+        "name":  "Punch Club",
+        "installdir":  "Punch Club"
+    },
+    {
+        "appid":  "394510",
+        "name":  "HELLDIVERS™",
+        "installdir":  "Helldivers"
+    },
+    {
+        "appid":  "394540",
+        "name":  "Spaceport Hope",
+        "installdir":  "Spaceport Hope"
+    },
+    {
+        "appid":  "394850",
+        "name":  "Square Brawl",
+        "installdir":  "Square Brawl"
+    },
+    {
+        "appid":  "395160",
+        "name":  "Toby: The Secret Mine",
+        "installdir":  "Toby The Secret Mine"
+    },
+    {
+        "appid":  "39530",
+        "name":  "Painkiller: Black Edition",
+        "installdir":  "Painkiller Black Edition"
+    },
+    {
+        "appid":  "39540",
+        "name":  "SpellForce: Platinum Edition",
+        "installdir":  "Spellforce Platinum Edition"
+    },
+    {
+        "appid":  "395520",
+        "name":  "Missing Translation",
+        "installdir":  "Missing Translation"
+    },
+    {
+        "appid":  "396360",
+        "name":  "LocoSoccer",
+        "installdir":  "LowcoBall"
+    },
+    {
+        "appid":  "39650",
+        "name":  "The Guild II",
+        "installdir":  "The Guild II"
+    },
+    {
+        "appid":  "396590",
+        "name":  "CMYW",
+        "installdir":  "CMYW"
+    },
+    {
+        "appid":  "397150",
+        "name":  "Stellar Overload",
+        "installdir":  "Stellar Overload"
+    },
+    {
+        "appid":  "397340",
+        "name":  "SimplePlanes",
+        "installdir":  "SimplePlanes"
+    },
+    {
+        "appid":  "397460",
+        "name":  "The Jackbox Party Pack 2",
+        "installdir":  "The Jackbox Party Pack 2"
+    },
+    {
+        "appid":  "397950",
+        "name":  "Clustertruck",
+        "installdir":  "ClusterTruck"
+    },
+    {
+        "appid":  "398180",
+        "name":  "Euclidean",
+        "installdir":  "Euclidean"
+    },
+    {
+        "appid":  "398850",
+        "name":  "Epistory - Typing Chronicles",
+        "installdir":  "Epistory"
+    },
+    {
+        "appid":  "399420",
+        "name":  "The Prism",
+        "installdir":  "The Prism"
+    },
+    {
+        "appid":  "399820",
+        "name":  "Kopanito All-Stars Soccer",
+        "installdir":  "Kopanito All-Stars Soccer"
+    },
+    {
+        "appid":  "400",
+        "name":  "Portal",
+        "installdir":  "Portal"
+    },
+    {
+        "appid":  "400110",
+        "name":  "Else Heart.Break()",
+        "installdir":  "ElseHeartbreak"
+    },
+    {
+        "appid":  "400160",
+        "name":  "Concrete Jungle",
+        "installdir":  "Concrete Jungle"
+    },
+    {
+        "appid":  "400660",
+        "name":  "Reverse Crawl",
+        "installdir":  "Reverse Crawl"
+    },
+    {
+        "appid":  "401360",
+        "name":  "The Aquatic Adventure of the Last Human",
+        "installdir":  "The Aquatic Adventure of the Last Human"
+    },
+    {
+        "appid":  "401840",
+        "name":  "ChargeShot",
+        "installdir":  "ChargeShot"
+    },
+    {
+        "appid":  "402390",
+        "name":  "Hyperdrive Massacre",
+        "installdir":  "Hyperdrive Massacre"
+    },
+    {
+        "appid":  "403440",
+        "name":  "Evil Hazard",
+        "installdir":  "Evil Hazard"
+    },
+    {
+        "appid":  "40380",
+        "name":  "Nail\u0027d",
+        "installdir":  "Nail\u0027d"
+    },
+    {
+        "appid":  "403840",
+        "name":  "Stacks TNT",
+        "installdir":  "Stacks TNT"
+    },
+    {
+        "appid":  "40390",
+        "name":  "Risen 2 - Dark Waters",
+        "installdir":  "Risen 2"
+    },
+    {
+        "appid":  "404050",
+        "name":  "Black \u0026 White Bushido",
+        "installdir":  "Black \u0026 White Bushido"
+    },
+    {
+        "appid":  "404630",
+        "name":  "One Hundred Ways",
+        "installdir":  "One Hundred Ways"
+    },
+    {
+        "appid":  "405500",
+        "name":  "Dangerous Golf",
+        "installdir":  "Dangerous Golf"
+    },
+    {
+        "appid":  "405640",
+        "name":  "Pony Island",
+        "installdir":  "Pony Island"
+    },
+    {
+        "appid":  "405820",
+        "name":  "Turok: Dinosaur Hunter",
+        "installdir":  "Turok - Dinosaur Hunter"
+    },
+    {
+        "appid":  "405970",
+        "name":  "Flat Kingdom Paper\u0027s Cut Edition",
+        "installdir":  "Flat Kingdom"
+    },
+    {
+        "appid":  "406150",
+        "name":  "Refunct",
+        "installdir":  "Refunct"
+    },
+    {
+        "appid":  "406170",
+        "name":  "Vortex: The Gateway",
+        "installdir":  "Vortex The Gateway"
+    },
+    {
+        "appid":  "406220",
+        "name":  "Gnomes Vs. Fairies",
+        "installdir":  "GnomesVsFairies"
+    },
+    {
+        "appid":  "406970",
+        "name":  "The Uncertain: Episode 1 - The Last Quiet Day",
+        "installdir":  "The Uncertain"
+    },
+    {
+        "appid":  "407530",
+        "name":  "ARK: Survival Of The Fittest",
+        "installdir":  "ARK SOTF"
+    },
+    {
+        "appid":  "407840",
+        "name":  "Guardians of Orion",
+        "installdir":  "Guardians of Orion"
+    },
+    {
+        "appid":  "408920",
+        "name":  "Krai Mira: Extended Cut",
+        "installdir":  "Krai Mira"
+    },
+    {
+        "appid":  "409170",
+        "name":  "Contract",
+        "installdir":  "Contract"
+    },
+    {
+        "appid":  "409450",
+        "name":  "The Fall of the Dungeon Guardians",
+        "installdir":  "The Fall of the Dungeon Guardians"
+    },
+    {
+        "appid":  "409710",
+        "name":  "BioShock Remastered",
+        "installdir":  "BioShock Remastered"
+    },
+    {
+        "appid":  "410110",
+        "name":  "12 is Better Than 6",
+        "installdir":  "12 is Better Than 6"
+    },
+    {
+        "appid":  "410710",
+        "name":  "System Shock: Enhanced Edition",
+        "installdir":  "SS1EE"
+    },
+    {
+        "appid":  "41100",
+        "name":  "Hammerfight",
+        "installdir":  "Hammerfight"
+    },
+    {
+        "appid":  "411560",
+        "name":  "Reveal The Deep",
+        "installdir":  "Reveal The Deep"
+    },
+    {
+        "appid":  "411680",
+        "name":  "Loot Hound",
+        "installdir":  "Loot Hound"
+    },
+    {
+        "appid":  "412130",
+        "name":  "Era of Majesty",
+        "installdir":  "Era of Majesty"
+    },
+    {
+        "appid":  "412410",
+        "name":  "Castle Chaos",
+        "installdir":  "Castle Chaos"
+    },
+    {
+        "appid":  "413150",
+        "name":  "Stardew Valley",
+        "installdir":  "Stardew Valley"
+    },
+    {
+        "appid":  "414070",
+        "name":  "Shut Up And Dig",
+        "installdir":  "ShutUpAndDig"
+    },
+    {
+        "appid":  "414080",
+        "name":  "Life is Hard",
+        "installdir":  "Life is Hard"
+    },
+    {
+        "appid":  "414470",
+        "name":  "Nightmare on Azathoth",
+        "installdir":  "Nightmare on Azathoth"
+    },
+    {
+        "appid":  "414720",
+        "name":  "Astrox: Hostile Space Excavation",
+        "installdir":  "Astrox"
+    },
+    {
+        "appid":  "414920",
+        "name":  "Corgi Warlock",
+        "installdir":  "CORGI WARLOCK"
+    },
+    {
+        "appid":  "415030",
+        "name":  "One More Dungeon",
+        "installdir":  "OneMoreDungeon"
+    },
+    {
+        "appid":  "415150",
+        "name":  "Pang Adventures",
+        "installdir":  "Pang Adventures"
+    },
+    {
+        "appid":  "417730",
+        "name":  "Shakedown Racing One",
+        "installdir":  "ShakedownRacing"
+    },
+    {
+        "appid":  "419080",
+        "name":  "Bridge Constructor Stunts",
+        "installdir":  "Bridge Constructor Stunts"
+    },
+    {
+        "appid":  "420570",
+        "name":  "Cubixx HD",
+        "installdir":  "Cubixx HD"
+    },
+    {
+        "appid":  "421260",
+        "name":  "Militia",
+        "installdir":  "Militia"
+    },
+    {
+        "appid":  "422970",
+        "name":  "Devil Daggers",
+        "installdir":  "devildaggers"
+    },
+    {
+        "appid":  "423620",
+        "name":  "Hero Defense",
+        "installdir":  "Hero Defense - Haunted Island"
+    },
+    {
+        "appid":  "423810",
+        "name":  "Marooners",
+        "installdir":  "Marooners"
+    },
+    {
+        "appid":  "425210",
+        "name":  "Shadwen",
+        "installdir":  "Shadwen"
+    },
+    {
+        "appid":  "425310",
+        "name":  "Ghostbusters",
+        "installdir":  "Ghostbusters"
+    },
+    {
+        "appid":  "425410",
+        "name":  "Road to Ballhalla",
+        "installdir":  "Road to Ballhalla"
+    },
+    {
+        "appid":  "426790",
+        "name":  "Grow Up",
+        "installdir":  "Grow Up"
+    },
+    {
+        "appid":  "426930",
+        "name":  "Moonshot",
+        "installdir":  "Moonshot"
+    },
+    {
+        "appid":  "427910",
+        "name":  "Zavix Tower",
+        "installdir":  "Zavix Tower"
+    },
+    {
+        "appid":  "428350",
+        "name":  "Fear Equation",
+        "installdir":  "Fear Equation"
+    },
+    {
+        "appid":  "428590",
+        "name":  "Unearthing Colossal",
+        "installdir":  "Unearthing Colossal"
+    },
+    {
+        "appid":  "429330",
+        "name":  "Stikbold!",
+        "installdir":  "Stikbold"
+    },
+    {
+        "appid":  "43110",
+        "name":  "Metro 2033",
+        "installdir":  "Metro 2033"
+    },
+    {
+        "appid":  "431810",
+        "name":  "Rencounter",
+        "installdir":  "Rencounter"
+    },
+    {
+        "appid":  "431840",
+        "name":  "3DRPG",
+        "installdir":  "3DRPG"
+    },
+    {
+        "appid":  "432280",
+        "name":  "BattleStorm",
+        "installdir":  "BattleStorm"
+    },
+    {
+        "appid":  "433170",
+        "name":  "Die Young",
+        "installdir":  "Die Young"
+    },
+    {
+        "appid":  "433890",
+        "name":  "MechoEcho",
+        "installdir":  "MechoEcho"
+    },
+    {
+        "appid":  "434170",
+        "name":  "The Jackbox Party Pack 3",
+        "installdir":  "The Jackbox Party Pack 3"
+    },
+    {
+        "appid":  "434650",
+        "name":  "Lost Castle",
+        "installdir":  "Lost Castle"
+    },
+    {
+        "appid":  "435400",
+        "name":  "Hidden Folks",
+        "installdir":  "HiddenFolks"
+    },
+    {
+        "appid":  "435530",
+        "name":  "The Final Station",
+        "installdir":  "TheFinalStation"
+    },
+    {
+        "appid":  "435790",
+        "name":  "10 Second Ninja X",
+        "installdir":  "10 Second Ninja X"
+    },
+    {
+        "appid":  "435800",
+        "name":  "BINARIES",
+        "installdir":  "BINARIES"
+    },
+    {
+        "appid":  "436280",
+        "name":  "Sudoku Quest",
+        "installdir":  "SudokuQuest"
+    },
+    {
+        "appid":  "436510",
+        "name":  "Worlds of Chaos: Invasion",
+        "installdir":  "Worlds of Chaos"
+    },
+    {
+        "appid":  "437100",
+        "name":  "My Night Job",
+        "installdir":  "My Night Job"
+    },
+    {
+        "appid":  "437530",
+        "name":  "A Blind Legend",
+        "installdir":  "A Blind Legend"
+    },
+    {
+        "appid":  "437730",
+        "name":  "Roadclub: League Racing",
+        "installdir":  "RoadclubLeagueRacing"
+    },
+    {
+        "appid":  "437920",
+        "name":  "Tricky Towers",
+        "installdir":  "Tricky Towers"
+    },
+    {
+        "appid":  "439910",
+        "name":  "Risky Rescue",
+        "installdir":  "Risky Rescue"
+    },
+    {
+        "appid":  "439950",
+        "name":  "Frontier",
+        "installdir":  "Frontier"
+    },
+    {
+        "appid":  "441790",
+        "name":  "Fragmented",
+        "installdir":  "Fragmented"
+    },
+    {
+        "appid":  "442140",
+        "name":  "Dyadic",
+        "installdir":  "Dyadic"
+    },
+    {
+        "appid":  "442210",
+        "name":  "Switchcars",
+        "installdir":  "Switchcars"
+    },
+    {
+        "appid":  "443860",
+        "name":  "Riptide GP: Renegade",
+        "installdir":  "Riptide GP Renegade"
+    },
+    {
+        "appid":  "444720",
+        "name":  "Inexistence",
+        "installdir":  "Inexistence"
+    },
+    {
+        "appid":  "445600",
+        "name":  "Void Raiders",
+        "installdir":  "Void Raiders"
+    },
+    {
+        "appid":  "446020",
+        "name":  "Jalopy",
+        "installdir":  "Jalopy"
+    },
+    {
+        "appid":  "446120",
+        "name":  "Bunker Punks",
+        "installdir":  "Bunker Punks"
+    },
+    {
+        "appid":  "448510",
+        "name":  "Overcooked",
+        "installdir":  "Overcooked"
+    },
+    {
+        "appid":  "448620",
+        "name":  "Rebirth of Island",
+        "installdir":  "Rebirth of Island"
+    },
+    {
+        "appid":  "4500",
+        "name":  "S.T.A.L.K.E.R.: Shadow of Chernobyl",
+        "installdir":  "STALKER Shadow of Chernobyl"
+    },
+    {
+        "appid":  "45000",
+        "name":  "Sol Survivor",
+        "installdir":  "SolSurvivor"
+    },
+    {
+        "appid":  "452060",
+        "name":  "Caveblazers",
+        "installdir":  "Caveblazers"
+    },
+    {
+        "appid":  "453030",
+        "name":  "The Fifth Expedition",
+        "installdir":  "The Fifth Expedition"
+    },
+    {
+        "appid":  "454030",
+        "name":  "Link",
+        "installdir":  "Link"
+    },
+    {
+        "appid":  "454100",
+        "name":  "Dungeon Escape",
+        "installdir":  "Dungeon Escape"
+    },
+    {
+        "appid":  "454250",
+        "name":  "The Eyes of Ara",
+        "installdir":  "The Eyes of Ara"
+    },
+    {
+        "appid":  "456830",
+        "name":  "Dual Core",
+        "installdir":  "Dual Core"
+    },
+    {
+        "appid":  "4570",
+        "name":  "Warhammer 40,000: Dawn of War - Game of the Year Edition",
+        "installdir":  "Dawn of War Gold"
+    },
+    {
+        "appid":  "45740",
+        "name":  "Dead Rising 2",
+        "installdir":  "Dead Rising 2"
+    },
+    {
+        "appid":  "460340",
+        "name":  "Guards",
+        "installdir":  "po"
+    },
+    {
+        "appid":  "460910",
+        "name":  "A-Gents",
+        "installdir":  "A-Gents"
+    },
+    {
+        "appid":  "461010",
+        "name":  "Roll\u0027d",
+        "installdir":  "Rolld"
+    },
+    {
+        "appid":  "461390",
+        "name":  "Bulby - Diamond Course",
+        "installdir":  "Bulby Diamond Course"
+    },
+    {
+        "appid":  "461840",
+        "name":  "Zenge",
+        "installdir":  "Zenge"
+    },
+    {
+        "appid":  "46270",
+        "name":  "Star Wolves",
+        "installdir":  "Star Wolves"
+    },
+    {
+        "appid":  "463980",
+        "name":  "Solitairica",
+        "installdir":  "Solitairica"
+    },
+    {
+        "appid":  "465760",
+        "name":  "Scrap Garden",
+        "installdir":  "Scrap Garden"
+    },
+    {
+        "appid":  "466420",
+        "name":  "Warriors\u0027 Wrath",
+        "installdir":  "Warriors\u0027 Wrath"
+    },
+    {
+        "appid":  "4700",
+        "name":  "Medieval II: Total War",
+        "installdir":  "Medieval II Total War"
+    },
+    {
+        "appid":  "470260",
+        "name":  "Event[0]",
+        "installdir":  "Event[0]"
+    },
+    {
+        "appid":  "473140",
+        "name":  "BomberZone",
+        "installdir":  "BomberZone"
+    },
+    {
+        "appid":  "473530",
+        "name":  "Slime-san",
+        "installdir":  "Slime-san"
+    },
+    {
+        "appid":  "473560",
+        "name":  "Cosmic Dust \u0026 Rust",
+        "installdir":  "Cosmic Dust \u0026 Rust"
+    },
+    {
+        "appid":  "477160",
+        "name":  "Human: Fall Flat",
+        "installdir":  "Human Fall Flat"
+    },
+    {
+        "appid":  "47790",
+        "name":  "Medal of Honor(TM) Single Player",
+        "installdir":  "Medal of Honor"
+    },
+    {
+        "appid":  "47870",
+        "name":  "Need for Speed: Hot Pursuit",
+        "installdir":  "Need for Speed Hot Pursuit"
+    },
+    {
+        "appid":  "47890",
+        "name":  "The Sims(TM) 3",
+        "installdir":  "The Sims 3"
+    },
+    {
+        "appid":  "4800",
+        "name":  "Heroes of Annihilated Empires",
+        "installdir":  "Heroes of Annihilated Empires"
+    },
+    {
+        "appid":  "480450",
+        "name":  "Floppy Heroes",
+        "installdir":  "Floppy Heroes"
+    },
+    {
+        "appid":  "481870",
+        "name":  "Mini Thief",
+        "installdir":  "Mini Thief"
+    },
+    {
+        "appid":  "48240",
+        "name":  "Anno 2070",
+        "installdir":  "Anno 2070"
+    },
+    {
+        "appid":  "483260",
+        "name":  "Rover The Dragonslayer",
+        "installdir":  "Rover The Dragonslayer"
+    },
+    {
+        "appid":  "48720",
+        "name":  "Mount \u0026 Blade: With Fire and Sword",
+        "installdir":  "Mount \u0026 Blade With Fire and Sword"
+    },
+    {
+        "appid":  "491260",
+        "name":  "Take Thy Throne",
+        "installdir":  "Take Thy Throne"
+    },
+    {
+        "appid":  "492500",
+        "name":  "Heroes of the Monkey Tavern",
+        "installdir":  "Heroes of the Monkey Tavern"
+    },
+    {
+        "appid":  "49520",
+        "name":  "Borderlands 2",
+        "installdir":  "Borderlands 2"
+    },
+    {
+        "appid":  "49540",
+        "name":  "Aliens: Colonial Marines",
+        "installdir":  "Aliens Colonial Marines"
+    },
+    {
+        "appid":  "496300",
+        "name":  "Kingdom: New Lands",
+        "installdir":  "Kingdom New Lands"
+    },
+    {
+        "appid":  "499520",
+        "name":  "The Turing Test",
+        "installdir":  "The Turing Test"
+    },
+    {
+        "appid":  "50130",
+        "name":  "Mafia II",
+        "installdir":  "Mafia II"
+    },
+    {
+        "appid":  "50300",
+        "name":  "Spec Ops: The Line",
+        "installdir":  "SpecOps_TheLine"
+    },
+    {
+        "appid":  "505170",
+        "name":  "Carmageddon: Max Damage",
+        "installdir":  "Carmageddon Max Damage"
+    },
+    {
+        "appid":  "50620",
+        "name":  "Darksiders",
+        "installdir":  "Darksiders"
+    },
+    {
+        "appid":  "509570",
+        "name":  "In Celebration of Violence",
+        "installdir":  "In Celebration of Violence"
+    },
+    {
+        "appid":  "511430",
+        "name":  "CrossWorlds: Escape",
+        "installdir":  "CrossWorlds Escape"
+    },
+    {
+        "appid":  "512450",
+        "name":  "BitRay2",
+        "installdir":  "BITRAY2"
+    },
+    {
+        "appid":  "512900",
+        "name":  "Streets of Rogue",
+        "installdir":  "Streets of Rogue"
+    },
+    {
+        "appid":  "513360",
+        "name":  "Mu Cartographer",
+        "installdir":  "Mu Cartographer"
+    },
+    {
+        "appid":  "527230",
+        "name":  "For The King",
+        "installdir":  "For The King"
+    },
+    {
+        "appid":  "530890",
+        "name":  "Haydee",
+        "installdir":  "Haydee"
+    },
+    {
+        "appid":  "531660",
+        "name":  "Exoplanet: First Contact",
+        "installdir":  "Exoplanet First Contact"
+    },
+    {
+        "appid":  "536890",
+        "name":  "Glittermitten Grove",
+        "installdir":  "Glittermitten Grove"
+    },
+    {
+        "appid":  "537340",
+        "name":  "Guts and Glory",
+        "installdir":  "Guts and Glory"
+    },
+    {
+        "appid":  "540100",
+        "name":  "Imprisoned Light",
+        "installdir":  "Imprisoned Light"
+    },
+    {
+        "appid":  "549390",
+        "name":  "Storage Inc 2",
+        "installdir":  "StorageInc2"
+    },
+    {
+        "appid":  "55150",
+        "name":  "Warhammer 40,000: Space Marine",
+        "installdir":  "Warhammer 40,000 Space Marine"
+    },
+    {
+        "appid":  "55230",
+        "name":  "Saints Row: The Third",
+        "installdir":  "Saints Row the Third"
+    },
+    {
+        "appid":  "552410",
+        "name":  "Project Abyss",
+        "installdir":  "Project Abyss"
+    },
+    {
+        "appid":  "559870",
+        "name":  "PAKO - Car Chase Simulator",
+        "installdir":  "PAKO - Car Chase Simulator"
+    },
+    {
+        "appid":  "567060",
+        "name":  "Putrefaction 2: Void Walker",
+        "installdir":  "Putrefaction 2 Void Walker"
+    },
+    {
+        "appid":  "575830",
+        "name":  "rooMaze",
+        "installdir":  "rooMaze"
+    },
+    {
+        "appid":  "57680",
+        "name":  "The First Templar",
+        "installdir":  "The First Templar"
+    },
+    {
+        "appid":  "582500",
+        "name":  "We Were Here",
+        "installdir":  "We Were Here"
+    },
+    {
+        "appid":  "58520",
+        "name":  "Blood Bowl: Legendary Edition",
+        "installdir":  "Blood Bowl Legendary Edition"
+    },
+    {
+        "appid":  "593330",
+        "name":  "Algotica - Iteration 1",
+        "installdir":  "Algotica - Iteration 1"
+    },
+    {
+        "appid":  "593560",
+        "name":  "The Last Cargo",
+        "installdir":  "The Last Cargo"
+    },
+    {
+        "appid":  "601640",
+        "name":  "The guard of dungeon",
+        "installdir":  "The guard of dungeon"
+    },
+    {
+        "appid":  "61500",
+        "name":  "Age of Wonders",
+        "installdir":  "Age of Wonders"
+    },
+    {
+        "appid":  "620",
+        "name":  "Portal 2",
+        "installdir":  "Portal 2"
+    },
+    {
+        "appid":  "65930",
+        "name":  "The Bureau: XCOM Declassified",
+        "installdir":  "The Bureau"
+    },
+    {
+        "appid":  "67370",
+        "name":  "The Darkness II",
+        "installdir":  "Darkness II"
+    },
+    {
+        "appid":  "6880",
+        "name":  "Just Cause",
+        "installdir":  "Just Cause"
+    },
+    {
+        "appid":  "6910",
+        "name":  "Deus Ex: Game of the Year Edition",
+        "installdir":  "Deus Ex"
+    },
+    {
+        "appid":  "6980",
+        "name":  "Thief: Deadly Shadows",
+        "installdir":  "Thief Deadly Shadows"
+    },
+    {
+        "appid":  "70300",
+        "name":  "VVVVVV",
+        "installdir":  "vvvvvv"
+    },
+    {
+        "appid":  "71390",
+        "name":  "Virtua Tennis 4",
+        "installdir":  "Virtua Tennis 4"
+    },
+    {
+        "appid":  "72000",
+        "name":  "Closure",
+        "installdir":  "Closure"
+    },
+    {
+        "appid":  "72200",
+        "name":  "Universe Sandbox",
+        "installdir":  "Universe Sandbox"
+    },
+    {
+        "appid":  "72850",
+        "name":  "The Elder Scrolls V: Skyrim",
+        "installdir":  "Skyrim"
+    },
+    {
+        "appid":  "72900",
+        "name":  "Winter Voices",
+        "installdir":  "Winter Voices Ep 1"
+    },
+    {
+        "appid":  "7520",
+        "name":  "Two Worlds II",
+        "installdir":  "Two Worlds II"
+    },
+    {
+        "appid":  "7860",
+        "name":  "NecroVisioN",
+        "installdir":  "NecroVisioN"
+    },
+    {
+        "appid":  "8000",
+        "name":  "Tomb Raider: Anniversary",
+        "installdir":  "Tomb Raider Anniversary"
+    },
+    {
+        "appid":  "80401",
+        "name":  "Blood Bowl Legendary Edition",
+        "installdir":  "Blood Bowl Legendary Edition"
+    },
+    {
+        "appid":  "81401",
+        "name":  "Aliens Colonial Marines",
+        "installdir":  "Aliens Colonial Marines"
+    },
+    {
+        "appid":  "8930",
+        "name":  "Sid Meier\u0027s Civilization V",
+        "installdir":  "Sid Meier\u0027s Civilization V"
+    },
+    {
+        "appid":  "9050",
+        "name":  "DOOM 3",
+        "installdir":  "Doom 3"
+    },
+    {
+        "appid":  "91100",
+        "name":  "SkyDrift",
+        "installdir":  "SkyDrift"
+    },
+    {
+        "appid":  "91310",
+        "name":  "Dead Island",
+        "installdir":  "Dead Island"
+    },
+    {
+        "appid":  "91700",
+        "name":  "E.Y.E: Divine Cybermancy",
+        "installdir":  "EYE"
+    },
+    {
+        "appid":  "92000",
+        "name":  "Hydrophobia: Prophecy",
+        "installdir":  "Hydrophobia"
+    },
+    {
+        "appid":  "92100",
+        "name":  "DETOUR",
+        "installdir":  "DETOUR"
+    },
+    {
+        "appid":  "93200",
+        "name":  "Revenge of the Titans",
+        "installdir":  "Revenge of the Titans"
+    },
+    {
+        "appid":  "9350",
+        "name":  "Supreme Commander",
+        "installdir":  "Supreme Commander"
+    },
+    {
+        "appid":  "94200",
+        "name":  "Jamestown",
+        "installdir":  "Jamestown"
+    },
+    {
+        "appid":  "94400",
+        "name":  "Nidhogg",
+        "installdir":  "Nidhogg"
+    },
+    {
+        "appid":  "95300",
+        "name":  "Capsized",
+        "installdir":  "Capsized"
+    },
+    {
+        "appid":  "95400",
+        "name":  "ibb \u0026 obb",
+        "installdir":  "ibbandobb"
+    },
+    {
+        "appid":  "98500",
+        "name":  "Naval Warfare",
+        "installdir":  "Naval Warfare"
+    },
+    {
+        "appid":  "9870",
+        "name":  "Ghostbusters: The Video Game",
+        "installdir":  "Ghostbusters"
+    },
+    {
+        "appid":  "9930",
+        "name":  "Test Drive Unlimited 2",
+        "installdir":  "Test Drive Unlimited 2"
+    },
+    {
+        "appid":  "99300",
+        "name":  "Renegade Ops",
+        "installdir":  "Renegade Ops"
+    },
+    {
+        "appid":  "99700",
+        "name":  "NightSky",
+        "installdir":  "Nightsky"
+    },
+    {
+        "appid":  "99810",
+        "name":  "Bulletstorm",
+        "installdir":  "Bulletstorm"
+    }
+]
