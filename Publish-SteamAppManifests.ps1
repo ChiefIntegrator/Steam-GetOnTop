@@ -334,22 +334,6 @@ param(
 	return $dgv
 }
 
-Function Get-SteamID64 {
-param(
-	[Parameter(Position=0, Mandatory=$true)]
-	[System.Int32]$SteamID3
-)
-	if (($SteamID3 % 2) -eq 0) {
-		$Y = 0;
-		$Z = ($SteamID3 / 2);
-	} else {
-		$Y = 1;
-		$Z = (($SteamID3 - 1) / 2);
-	}
-
-	return "7656119$(($Z * 2) + (7960265728 + $Y))"
-}
-
 #endregion
 
 # Main
@@ -360,7 +344,7 @@ param(
 [System.Reflection.Assembly]::LoadWithPartialName("System.Drawing") | Out-Null
 
 # Import Modules
-Import-Module .\Modules\VDFTools
+Import-Module .\Modules\SteamTools
 Import-Module .\Modules\LogTools
 
 #region Initialisation

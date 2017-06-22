@@ -115,11 +115,11 @@ Function ConvertTo-VDF
     {
         $output = ""
         
-        ForEach ($property in ($InputObject | Get-Member -MemberType NoteProperty) | Where-Object {$_.Definition -match "System.String"})
+        ForEach ( $property in ($InputObject.psobject.Members | Where {($_.MemberType -eq "NoteProperty") -and ($_.TypeNameOfValue -eq "System.String")}) )
         {
             $output += ("`t" * $Depth) + "`"" + $property.Name + "`"`t`"" + $InputObject.($property.Name) + "`"`n"
         }
-        ForEach ($property in ($InputObject | Get-Member -MemberType NoteProperty) | Where-Object {$_.Definition -match "System.Management.Automation.PSCustomObject"})
+        ForEach ( $property in ($InputObject.psobject.Members | Where {($_.MemberType -eq "NoteProperty") -and ($_.TypeNameOfValue -eq "System.Management.Automation.PSCustomObject")}) )
         {
             $element = $InputObject.($property.Name)
             $output += ("`t" * $Depth) + "`"" + $property.Name + "`"`n"
@@ -137,4 +137,24 @@ Function ConvertTo-VDF
         return $output
     }
     
+}
+
+Function Get-SteamPath {
+	return "$((Get-ItemProperty HKCU:\Software\Valve\Steam\).SteamPath)".Replace('/','\')
+}
+
+Function Get-SteamID64 {
+param(
+	[Parameter(Position=0, Mandatory=$true)]
+	[System.Int32]$SteamID3
+)
+	if (($SteamID3 % 2) -eq 0) {
+		$Y = 0;
+		$Z = ($SteamID3 / 2);
+	} else {
+		$Y = 1;
+		$Z = (($SteamID3 - 1) / 2);
+	}
+
+	return "7656119$(($Z * 2) + (7960265728 + $Y))"
 }
