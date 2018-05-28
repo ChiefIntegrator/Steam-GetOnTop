@@ -228,5 +228,5 @@ if ($commit) {
 	Add-Member -InputObject $steamConfig.InstallConfigStore -MemberType NoteProperty -Name "AuthorizedDevice" -Value $newData
 	
 	Copy-Item -Path "$($steamPath)\Config\Config.vdf" -Destination "$($steamPath)\Config\Config-$(Get-Date -Format "yyyyMMdd_hhmmss").vdf"
-	ConvertTo-VDF -InputObject $steamConfig | Out-File "$($steamPath)\Config\Config.vdf" -Encoding UTF8
+	ConvertTo-VDF -InputObject $steamConfig | Out-File "$($steamPath)\Config\Config.vdf" -Encoding UTF8 -NoNewline
 }
