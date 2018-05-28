@@ -31,51 +31,51 @@ Function ConvertFrom-VDF {
         [String[]]
         $InputObject
 	)
-    process
-    {
+
         $root = New-Object -TypeName PSObject
         $chain = [ordered]@{}
         $depth = 0
         $parent = $root
         $element = $null
 		
-        ForEach ($line in $InputObject)
-        {
-            $quotedElements = (Select-String -Pattern '(?<=")([^\"\t\s]+\s?)+(?=")' -InputObject $line -AllMatches).Matches
-    
-            if ($quotedElements.Count -eq 1) # Create a new (sub) object
-            {
+    #Magic PowerShell Switch Enumrates Arrays
+    switch -Regex ($InputObject) {
+        #Case: ValueKey
+        '^\t*"(\S+)"\t\t"(.+)"$' {
+            Add-Member -InputObject $element -MemberType NoteProperty -Name $Matches[1] -Value $Matches[2]
+            continue
+        }
+        #Case: ParentKey
+        '^\t*"(\S+)"$' { 
                 $element = New-Object -TypeName PSObject
-                Add-Member -InputObject $parent -MemberType NoteProperty -Name $quotedElements[0].Value -Value $element
+            Add-Member -InputObject $parent -MemberType NoteProperty -Name $Matches[1] -Value $element
+            continue
             }
-            elseif ($quotedElements.Count -eq 2) # Create a new String hash
-            {
-                Add-Member -InputObject $element -MemberType NoteProperty -Name $quotedElements[0].Value -Value $quotedElements[1].Value
-            }
-            elseif ($line -match "{")
-            {
+        #Case: Opening ParentKey Scope
+        '^\t*{$' {
+            $parent = $element
                 $chain.Add($depth, $element)
                 $depth++
-                $parent = $chain.($depth - 1) # AKA $element
-                
+            continue
             }
-            elseif ($line -match "}")
-            {
+        #Case: Closing ParentKey Scope
+        '^\t*}$' {
                 $depth--
                 $parent = $chain.($depth - 1)
 				$element = $parent
                 $chain.Remove($depth)
+            continue
             }
-            else # Comments etc
-            {
+        #Case: Comments or unsupported lines
+        Default {
+            Write-Debug "Ignored line: $_"
+            continue
             }
         }
 
         return $root
     }
     
-}
-
 Function ConvertTo-VDF
 {
     <# 
