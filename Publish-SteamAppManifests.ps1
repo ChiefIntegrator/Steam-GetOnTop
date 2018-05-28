@@ -374,10 +374,15 @@ Write-LogHeader -InputObject "Publish-SteamAppManifests.ps1"
 $steamPath = Get-SteamPath
 Write-Log -InputObject "Steam is installed in '$steamPath'"
 [array]$steamLibraries += $steamPath
-$config = ConvertFrom-VDF (Get-Content "$($steamPath)\config\config.vdf")
-ForEach($library in ($config.InstallConfigStore.Software.Valve.Steam | Get-Member | Where-Object {$_.Name -match "BaseInstallFolder"})) {
-	$path = ($config.InstallConfigStore.Software.Valve.Steam.($library.name)).Replace("\\", "\")
-	Write-Log -InputObject "Additional Steam library found in '$($path)'"
+$librarys = ConvertFrom-VDF -InputObject (Get-Content "$steamPath\steamapps\libraryfolders.vdf")
+
+for ($i = 1; $true; $i++) {
+  if ($librarys.LibraryFolders."$i" -eq $null) {
+    break
+  }
+
+	 $path = $librarys.LibraryFolders."$i".Replace("\\","\")
+	 Write-Log -InputObject "Additional Steam library found in '$path'"
 	[array]$steamLibraries += $path
 }
 
