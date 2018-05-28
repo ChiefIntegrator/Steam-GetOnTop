@@ -28,7 +28,8 @@ Function ConvertFrom-VDF {
     (
 		[Parameter(Position=0, Mandatory=$true)]
 		[ValidateNotNullOrEmpty()]
-        [System.String[]]$InputObject
+        [String[]]
+        $InputObject
 	)
     process
     {
@@ -146,7 +147,7 @@ Function Get-SteamPath {
 Function Get-SteamID64 {
 param(
 	[Parameter(Position=0, Mandatory=$true)]
-	[System.Int32]$SteamID3
+	[int]$SteamID3
 )
 	if (($SteamID3 % 2) -eq 0) {
 		$Y = 0;

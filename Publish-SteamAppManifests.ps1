@@ -35,7 +35,7 @@
 [cmdletBinding(SupportsShouldProcess=$false)]
 param(
 	[Parameter(Mandatory=$false)]
-	[System.String]$LookupTablePath = ".\appLookup.json"
+	[string]$LookupTablePath = ".\appLookup.json"
 	,
 	[Parameter(Mandatory=$false)]
 	[Switch]$IncludeGamesNotOwned
@@ -44,11 +44,11 @@ param(
 	[Switch]$SkipSanityCheck
 	,
 	[Parameter(Mandatory=$false)]
-	[System.Int32]$MaximumAmbiguousMatches = 1
+	[int]$MaximumAmbiguousMatches = 1
 	,
 	[Parameter(Mandatory=$false)]
 	[ValidateSet("None", "Standard", "Verbose", "Debug")] 
-	[System.String]$LogLevel = "Standard"
+	[string]$LogLevel = "Standard"
 )
 
 # =========
@@ -85,19 +85,19 @@ Function New-ACF {
  #>
 param(
 	[Parameter(Position=0, Mandatory=$true)]
-	[System.Int32]$AppID
+	[int]$AppID
 	,
 	[Parameter(Position=1, Mandatory=$true)]
 	[ValidateNotNullOrEmpty()]
-	[System.String[]]$AppName
+	[string[]]$AppName
 	,
 	[Parameter(Position=2, Mandatory=$true)]
 	[ValidateNotNullOrEmpty()]
-	[System.String[]]$SteamLibrary
+	[string[]]$SteamLibrary
 	,
 	[Parameter(Position=3, Mandatory=$true)]
 	[ValidateNotNullOrEmpty()]
-	[System.String[]]$AppFolder
+	[string[]]$AppFolder
 )
 
 	$acf = @"
