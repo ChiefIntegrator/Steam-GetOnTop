@@ -105,41 +105,41 @@ Function ConvertTo-VDF
  #>
     param
     (
-		[Parameter(Position=0, Mandatory=$true, ValueFromPipeline=$true)]
+        [Parameter(Position=0, Mandatory=$true)]
 		[ValidateNotNullOrEmpty()]
-		[PSObject]$InputObject,
+        [PSObject]
+        $InputObject,
 
         [Parameter(Position=1, Mandatory=$false)]
-		[int]$Depth = 0
+        [int]
+        $Depth = 0
 	)
-    process
-    {
-        $output = ""
+    $output = [string]::Empty
         
-        ForEach ( $property in ($InputObject.psobject.Members | Where {($_.MemberType -eq "NoteProperty") -and ($_.TypeNameOfValue -eq "System.String")}) )
-        {
-            $output += ("`t" * $Depth) + "`"" + $property.Name + "`"`t`"" + $InputObject.($property.Name) + "`"`n"
+    foreach ( $property in ($InputObject.psobject.Properties) ) {
+        switch ($property.TypeNameOfValue) {
+            "System.String" { 
+                $output += ("`t" * $Depth) + "`"" + $property.Name + "`"`t`t`"" + $property.Value + "`"`n"
+                break
         }
-        ForEach ( $property in ($InputObject.psobject.Members | Where {($_.MemberType -eq "NoteProperty") -and ($_.TypeNameOfValue -eq "System.Management.Automation.PSCustomObject")}) )
-        {
-            $element = $InputObject.($property.Name)
+            "System.Management.Automation.PSCustomObject" {
+                $element = $property.Value
             $output += ("`t" * $Depth) + "`"" + $property.Name + "`"`n"
             $output += ("`t" * $Depth) + "{`n"
-            $Depth++
-            $output += ConvertTo-VDF -InputObject $element -Depth $Depth
-            $Depth--
-            $output +=  ("`t" * $Depth) + "}"
-            if ($Depth -gt 0)
-            {
-                $output += "`n"
+                $output += ConvertTo-VDF -InputObject $element -Depth ($Depth + 1)
+                $output += ("`t" * $Depth) + "}`n"
+                break
+            }
+            Default {
+                Write-Error ("Unsupported Property of type {0}" -f $_) -ErrorAction Stop
+                break
+            }
             }
         }
     
         return $output
     }
     
-}
-
 Function Get-SteamPath {
 	return "$((Get-ItemProperty HKCU:\Software\Valve\Steam\).SteamPath)".Replace('/','\')
 }
