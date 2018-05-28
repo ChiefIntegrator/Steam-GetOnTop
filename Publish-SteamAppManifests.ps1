@@ -371,8 +371,8 @@ New-Item -Path $log -ItemType File -Force  | Out-Null
 Write-LogHeader -InputObject "Publish-SteamAppManifests.ps1"
 
 # Get steam library locations
-$steamPath = "$((Get-ItemProperty HKCU:\Software\Valve\Steam\).SteamPath)".Replace('/','\')
-Write-Log -InputObject "Steam is installed in '$($steamPath)'"
+$steamPath = Get-SteamPath
+Write-Log -InputObject "Steam is installed in '$steamPath'"
 [array]$steamLibraries += $steamPath
 $config = ConvertFrom-VDF (Get-Content "$($steamPath)\config\config.vdf")
 ForEach($library in ($config.InstallConfigStore.Software.Valve.Steam | Get-Member | Where-Object {$_.Name -match "BaseInstallFolder"})) {
