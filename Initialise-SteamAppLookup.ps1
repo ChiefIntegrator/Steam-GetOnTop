@@ -29,9 +29,9 @@ param(
 	[System.String]$InputFile = ".\AppLookup.json"
 )
 
-Import-Module .\Modules\VDFTools
+Import-Module .\Modules\SteamTools
 
-$steamPath = "$((Get-ItemProperty HKCU:\Software\Valve\Steam\).SteamPath)".Replace('/','\')
+$steamPath = Get-SteamPath
 
 $LookupTablePath = ".\AppLookup.json"
 if (Test-Path $LookupTablePath) {

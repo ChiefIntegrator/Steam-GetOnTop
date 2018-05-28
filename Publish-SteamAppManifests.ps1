@@ -35,7 +35,7 @@
 [cmdletBinding(SupportsShouldProcess=$false)]
 param(
 	[Parameter(Mandatory=$false)]
-	[System.String]$LookupTablePath = ".\appLookup.json"
+	[string]$LookupTablePath = ".\appLookup.json"
 	,
 	[Parameter(Mandatory=$false)]
 	[Switch]$IncludeGamesNotOwned
@@ -44,11 +44,11 @@ param(
 	[Switch]$SkipSanityCheck
 	,
 	[Parameter(Mandatory=$false)]
-	[System.Int32]$MaximumAmbiguousMatches = 1
+	[int]$MaximumAmbiguousMatches = 1
 	,
 	[Parameter(Mandatory=$false)]
 	[ValidateSet("None", "Standard", "Verbose", "Debug")] 
-	[System.String]$LogLevel = "Standard"
+	[string]$LogLevel = "Standard"
 )
 
 # =========
@@ -85,19 +85,19 @@ Function New-ACF {
  #>
 param(
 	[Parameter(Position=0, Mandatory=$true)]
-	[System.Int32]$AppID
+	[int]$AppID
 	,
 	[Parameter(Position=1, Mandatory=$true)]
 	[ValidateNotNullOrEmpty()]
-	[System.String[]]$AppName
+	[string[]]$AppName
 	,
 	[Parameter(Position=2, Mandatory=$true)]
 	[ValidateNotNullOrEmpty()]
-	[System.String[]]$SteamLibrary
+	[string[]]$SteamLibrary
 	,
 	[Parameter(Position=3, Mandatory=$true)]
 	[ValidateNotNullOrEmpty()]
-	[System.String[]]$AppFolder
+	[string[]]$AppFolder
 )
 
 	$acf = @"
@@ -371,13 +371,18 @@ New-Item -Path $log -ItemType File -Force  | Out-Null
 Write-LogHeader -InputObject "Publish-SteamAppManifests.ps1"
 
 # Get steam library locations
-$steamPath = "$((Get-ItemProperty HKCU:\Software\Valve\Steam\).SteamPath)".Replace('/','\')
-Write-Log -InputObject "Steam is installed in '$($steamPath)'"
+$steamPath = Get-SteamPath
+Write-Log -InputObject "Steam is installed in '$steamPath'"
 [array]$steamLibraries += $steamPath
-$config = ConvertFrom-VDF (Get-Content "$($steamPath)\config\config.vdf")
-ForEach($library in ($config.InstallConfigStore.Software.Valve.Steam | Get-Member | Where-Object {$_.Name -match "BaseInstallFolder"})) {
-	$path = ($config.InstallConfigStore.Software.Valve.Steam.($library.name)).Replace("\\", "\")
-	Write-Log -InputObject "Additional Steam library found in '$($path)'"
+$librarys = ConvertFrom-VDF -InputObject (Get-Content "$steamPath\steamapps\libraryfolders.vdf")
+
+for ($i = 1; $true; $i++) {
+  if ($librarys.LibraryFolders."$i" -eq $null) {
+    break
+  }
+
+	 $path = $librarys.LibraryFolders."$i".Replace("\\","\")
+	 Write-Log -InputObject "Additional Steam library found in '$path'"
 	[array]$steamLibraries += $path
 }
 
